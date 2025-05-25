@@ -1,0 +1,37 @@
+version: '3'
+services:
+  db:
+    image: mysql:8.0
+    command: --authentication_policy=CACHING_SHA2_PASSWORD
+    environment:
+      MYSQL_ROOT_HOST: localhost
+      MYSQL_USER: smm
+      MYSQL_PASSWORD: QY2$>yIAxHrm1?TxBS@27:%2lb@etd
+      MYSQL_ROOT_PASSWORD: QY2$>yIAxHrm1?TxBS@27:%2lb@etd
+      MYSQL_DATABASE: smm_payments
+      MYSQL_TCP_PORT: 1999
+    ports:
+      - "1999:1999"
+    expose:
+      - 1999
+    volumes:
+      - ./sql:/docker-entrypoint-initdb.d
+  
+  redis:
+    image: redis:latest
+    command: --port 2000
+    ports:
+      - "2000:2000" 
+
+  payment-gateway:
+    restart: always
+    depends_on:
+      - db
+      - redis
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "1998:1998"
+    environment:
+      NODE_ENV: development

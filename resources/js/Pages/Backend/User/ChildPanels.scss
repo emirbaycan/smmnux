@@ -1,0 +1,85 @@
+.childpanels {
+    .video{
+        width: 40rem;
+        height: 22rem;
+        margin: auto;
+        iframe{
+            width: 100%;
+            height: 100%;
+        }
+    }
+    .steps{
+        .boxes{
+            .box{
+                flex: 0 0 25%;
+                box-sizing: border-box;
+                display: flex;
+                .icon{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    svg{
+                        width: 2rem;
+                        height: 2rem;
+                        color: var(--primary-color);
+                    }
+                }
+                .content{
+                    display: flex;
+                    flex-direction: column;
+                    margin-left: 2rem;
+                    .head{
+                        font-size: 1.5rem;
+                        font-weight: 600;
+                        margin-bottom: .5rem;
+                    }
+                    .desc{
+                        font-size: 1rem;
+                        font-weight: 500;
+                    }
+                }
+            }
+            .box:not(:last-child){
+                border-right: 0;
+            }
+        }
+    }
+    .cp-forms{
+        .box{
+            .form{
+                .part{
+                    display: flex;
+                    margin-bottom: 1rem;
+                    .input-label-box{
+                        flex: 0 0 calc(50% - 1rem);
+                        margin-bottom: 0;
+                        margin-right: 2rem;
+                        .label{
+                            padding: .5rem 1rem;
+                        }
+                        .input{
+                            border: solid 1px var(--box-border-color);
+                            font-size: 1rem;
+                            padding: 1rem 
+                        }  
+                    }
+                    .input-box:first-child{
+                        margin-right: auto;
+                    }
+                    .info-box{
+                        flex: 0 0 calc(50% - 1rem);
+                        color: #655dc2;
+                        background-color: rgba(133,123,255,.2);
+                        border: solid 1px #7a71eb;
+                        padding: 1rem;
+                        box-sizing: border-box;
+                    }
+                    .btn{
+                        height: 3rem;
+                        margin:auto 0 0 0;
+                    }
+                }
+            }
+        }
+    } 
+}

@@ -1,0 +1,113 @@
+.addfunds {
+    .navbox {
+        .navs {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 2rem 0;
+
+            .nav {
+                background: transparent;
+                color: var(--primary-color);
+                border: solid 1px var(--primary-color);
+                font-weight: 600;
+                font-size: .9rem;
+                padding: 1rem 3rem;
+                min-width: 10rem;
+                cursor: pointer;
+            }
+
+            .nav:hover,
+            .nav.open {
+                background: var(--primary-color);
+                color: white;
+            }
+        }
+
+        .contents {
+            .content {
+                display: flex;
+                flex-direction: column;
+
+                .deposit-icons {
+                    display: flex;
+                    padding-bottom: 2rem;
+                    border-bottom: solid 1px var(--box-border-color);
+
+                    .holder {
+                        display: flex;
+                        flex: 0 0 33%;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center;
+                        padding: 0 2rem;
+                        box-sizing: border-box;
+
+                        .icon {
+                            background-image: url(/resources/js/assets/backend/addfund.png);
+                            width: 68px;
+                            height: 76px;
+                            display: block;
+                        }
+
+                        .text {
+                            font-size: 1.25rem;
+                            font-weight: 600;
+                            color: var(--panel-text-color);
+                            margin: 1rem 0 auto;
+                        }
+                    }
+
+                    .holder:not(:last-child) {
+                        border-right: solid 1px var(--box-border-color);
+                    }
+
+                    .holder:nth-child(2) {
+                        .icon {
+                            background-position: -105px;
+                            width: 85px;
+                        }
+                    }
+
+                    .holder:nth-child(3) {
+                        .icon {
+                            background-position: 86px;
+                            width: 80px;
+                        }
+
+                        .text {
+                            font-size: .9rem;
+                        }
+                    }
+
+                }
+
+                .deposit-text {
+                    margin: 2rem 0;
+                    text-align: center;
+                    color: var(--primary-color);
+                    font-size: .9rem;
+                    line-height: 1.4;
+                }
+                .dropdown-item.disabled{
+                    background: var(--primary-color);
+                    color: white;
+                }
+
+                .boxes{
+                    width: 100%;
+                    .box{
+                        width: calc(50% - 1rem);
+                    }
+                    .box:first-child{
+                        margin-right: 2rem;
+                    }
+                }
+            }
+            .content.hidden{
+                display: none;
+            }
+        }
+
+    }
+}

@@ -1,0 +1,103 @@
+.terms {
+    background: white;
+
+    .box {
+        border: 1px solid var(--box-border-color);
+        padding: 2rem;
+        margin: 2rem 0 3rem;
+    }
+
+    .header {
+        margin: 0 0 2rem;
+        font-size: 3rem;
+        text-align: center;
+    }
+
+    .description {
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    .navs {
+        display: flex;
+        margin: 2rem 0;
+        .nav {
+            flex: 0 0 25%;
+            height: 10rem;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            cursor: pointer;
+            border: solid 1px var(--box-border-color);
+            .inner {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+                svg {
+                    width: 3rem;
+                    height: 3rem;
+                    color: var(--primary-color);
+                    margin-right: 2rem;
+                }
+
+                .head-holder {
+                    display: flex;
+                    flex-direction: column;
+                    .head {
+                        font-weight: 600;
+                        font-size: 1.5rem;
+                        margin:0;
+                        color: var(--dark-head-color);
+                    }
+
+                    .desc {
+                        font-size: 1rem;
+                        margin:0;
+                        color: var(--light-primary-color);
+                    }
+                }
+            }
+        }
+        .nav:not(:last-child){
+            border-right: 0;
+        }
+        .nav.open{
+            background: var(--primary-color);
+            svg{
+                color: white;
+            }
+            .head-holder{
+                .head{
+                    color:white
+                }
+                .desc{
+                    color:white
+                }
+            }
+        }
+    }
+
+    .contents {
+        .content {
+            max-height: 0;
+            overflow: hidden;
+            .head {
+                font-size: 1.5rem;
+                margin: 0 0 2rem;
+            }
+
+            .html {
+                display: flex;
+                flex-direction: column;
+                li{
+                    list-style: disc;
+                    margin-bottom: 1rem;
+                }
+            }
+        }
+        .content.open{
+            max-height: 9999px;
+        }
+    }
+}

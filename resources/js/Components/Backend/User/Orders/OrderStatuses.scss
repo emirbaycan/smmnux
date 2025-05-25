@@ -1,0 +1,39 @@
+.order-statuses {
+    display: flex;
+    margin: 1rem 0;
+
+    .status {
+        display: flex;
+        padding: .5rem;
+        border: solid 1px var(--primary-color);
+        border-radius: .25rem;
+        margin: 1rem .25rem 1rem 0;
+        cursor: pointer;
+        transition: .3s;
+        align-items: center;
+
+        svg {
+            padding-right: .5rem;
+            color: var(--primary-color);
+            transition: .3s;
+        }
+
+        .name {
+            color: var(--primary-color);
+            transition: .3s;
+        }
+    }
+
+    .status:hover,
+    .status.open {
+        background: var(--primary-color);
+        svg {
+            color: white;
+        }
+
+        .name {
+            color: white
+        }
+    }
+
+}

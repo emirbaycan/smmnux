@@ -1,0 +1,1325 @@
+{
+    "ui": {
+        "brandname":"SmmNux",
+        "header": {
+            "links": [
+                {
+                    "name": "Sign in",
+                    "url": "home"
+                },
+                {
+                    "name": "Services",
+                    "url": "services"
+                },
+                {
+                    "name": "Terms",
+                    "url": "terms"
+                },
+                {
+                    "name": "How it Works",
+                    "url": "how-it-works"
+                },
+                {
+                    "name": "Blog",
+                    "url": "blog"
+                }
+            ],
+            "btn": "Sign up"
+        },
+        "footer": {
+            "contact": [
+                {
+                    "icon": "mail",
+                    "title": "Email:",
+                    "link": "mailto:support@bulkfollows.com"
+                },
+                {
+                    "icon": "skype",
+                    "title": "Skype:",
+                    "link": "skype:Socialfollowrez"
+                }
+            ],
+            "info": {
+                "header": "Digital Web Solutions FZ LLC",
+                "content": "Address: Business Center, RAKEZ, Ras Al Khamiah, UAE"
+            },
+            "terms": "Terms & Conditions",
+            "rights": "Copyright - 2023 All right Reserved"
+        },
+        "home": {
+            "banner": {
+                "header": "SMM Panel",
+                "content": "Welcome to our SMM Panel. In the rapidly evolving world of digital marketing, businesses are leveraging the power of social media to reach their target audience more effectively than ever before. This has given rise to a powerful tool in the marketer's arsenal known as Social Media Marketing or SMM. Among the various platforms that offer SMM services, one that stands out is Bulkfollows."
+            },
+            "signin": {
+                "username": "Username",
+                "password": "Password",
+                "remember_me": "Remember Me",
+                "forgot_password": "Forgot Password?",
+                "signin_btn": "Sign in",
+                "have_an_account": "Do not have an account?",
+                "signup_btn": "Sign up"
+            },
+            "chart": {
+                "header": "Comparison Chart",
+                "head_0": "Bulkfollows",
+                "head_1":"Other's",
+                "items": [
+                    "Free Child Panel",
+                    "Points for each $ spend",
+                    "Upto 10% discount",
+                    "Upto 6% deposit",
+                    "24/7 Support through ticket, whatsapp, telegram"
+                ]
+            },
+            "about": {
+                "header": "About Bulkfollows",
+                "items": [
+                    {
+                        "head": "World's Best Cheap & Easy SMM Panel",
+                        "desc": "Bulkfollows is a globally recognized platform offering top-notch SMM services. Whether you're in the United States, India, or Turkey, you can access our services anywhere, anytime. Our panel is designed to be user-friendly and cost-effective, providing the best value for your money."
+                    },
+                    {
+                        "head": "SMM Reseller Panel",
+                        "desc": "Our reseller panel allows influencers, marketing enthusiasts, and digital marketing agencies to buy our services at wholesale prices. Whether it's Twitter followers, Soundcloud likes, or YouTube views, you can resell them at a profit. With us, you have a chance to start a profitable online business with minimal investment."
+                    },
+                    {
+                        "head": "Sign-Up Process",
+                        "desc": "Getting started with Bulkfollows is easy. Simply visit our website, click the 'Sign Up' button, provide the necessary information, and create your account. Once you've registered, you can log in anytime and start leveraging our vast range of SMM services."
+                    }
+                ]
+            },
+            "services": {
+                "header": "SMM Services",
+                "content": "Our wide range of SMM services covers all major social networks such as Soundcloud, Twitter, Spotify, Youtube, LinkedIn, and Telegram. Here's what you can expect:",
+                "items": [
+                    {
+                        "head": "Spotify",
+                        "desc": "Looking for Spotify Plays, Likes, or followers? We've got you covered. Our Spotify SMM panel offers organic and risk-free services to boost your Spotify presence. Our sole focus is on reseller panels and social media. Therefore, it is surely one of the greatest opportunities for marketing and advertising."
+                    },
+                    {
+                        "head": "Soundcloud",
+                        "desc": "Our Soundcloud SMM panel can help you gain real followers, likes, comments, and views on your posts. Make your Soundcloud profile stand out with Bulkfollows. We offer the cheapest and best Social Media Marketing Panel for Soundcloud and other social networks. Our services are affordable and high-quality when you register securely in the panel."
+                    },
+                    {
+                        "head": "Youtube",
+                        "desc": "Want to skyrocket your YouTube channel's growth? Our YouTube SMM panel offers views, likes, subscribers, and shares from genuine accounts. Become an Internet celebrity with our services. Users are constantly looking for fresh and appealing videos due to the constantly rising volume of videos submitted to YouTube."
+                    },
+                    {
+                        "head": "Twitter",
+                        "desc": "At Bulkfollows, our Twitter services can help you get more followers, retweets, and likes. Leverage the power of our Twitter SMM panel to boost your online credibility. Our Services make your work easy to verify your Twitter account because we provide high-quality services."
+                    },
+                    {
+                        "head": "Linkedin",
+                        "desc": "With our SMM Panel for LinkedIn, the professional social network is no longer ignored in social media marketing. With our LinkedIn services, you can enhance your professional networking and reach."
+                    },
+                    {
+                        "head": "Telegram",
+                        "desc": "Our Marketing Panel for Telegram allows you to grow your channel's members, views, and post reach. Expand your messaging and influence with our Telegram services. For discussions and information exchange, internet users have been using the Telegram app often for a while now. The application, which uses the same operating system as WhatsApp, enables free online conversation."
+                    }
+                ]
+            },
+            "benefits": {
+                "header": "Benefits of Using Bulkfollows",
+                "items": [
+                    {
+                        "head": "Cheapest SMM Panel",
+                        "desc": "Bulkfollows is committed to offering the most affordable SMM services without compromising quality. Our Panel Pricing starts from a minimal amount, making us the cheapest SMM panel available."
+                    },
+                    {
+                        "head": "Easy SMM Panel",
+                        "desc": "Furthermore, Our SMM panel is easy to navigate, even for beginners. With a user-friendly interface and a comprehensive FAQ section, using our services is as easy as 1-2-3."
+                    },
+                    {
+                        "head": "Highest Quality SMM Panel",
+                        "desc": "Quality is our top priority. Our SMM services are 100% genuine, safe, and compliant with each social network's terms and services. We ensure that our services help enhance your online reputation."
+                    },
+                    {
+                        "head": "Fastest SMM Panel",
+                        "desc": "Our panel is built to deliver results quickly. We understand that in the world of social media, timing is everything. That's why we ensure your orders are processed as fast as possible"
+                    },
+                    {
+                        "head": "SMM Panel with Real-Time Data",
+                        "desc": "We provide real-time data and statistics about your orders and services. This helps you keep track of your social media growth and understand what's working for your brand."
+                    },
+                    {
+                        "head": "Secure Payment SMM Panel",
+                        "desc": "We accept payments through various methods like credit cards, PayPal, Payoneer, Skrill, Western Union, and more. Our payment gateway is secure and ensures that your money is safe."
+                    }
+                ]
+            },
+            "panel": {
+                "header": "SMM Panel Services",
+                "btn":"Sign up now",
+                "items": [
+                    {
+                        "theme": "dark",
+                        "head": "Support 24/7",
+                        "desc": "Our top priority is to satisfy our customers. That's why our SMM Panel 24/7 Support Is available for customers to assist you with your queries and concerns. Whether it's a technical glitch or a service-related query, we're here to help round the clock."
+                    },
+                    {
+                        "theme": "light",
+                        "head": "Quick Response from Clients",
+                        "desc": "Our client's feedback is important to us. That's why we strive to respond to our clients as quickly as possible. This helps us maintain a strong relationship with our clients and improve our services based on their feedback."
+                    },
+                    {
+                        "theme": "dark",
+                        "head": "Social Media Marketing Service",
+                        "desc": "Social Media Marketing Panel is an essential aspect of digital marketing today. With our range of SMM services, we strive to help businesses expand their online presence, reach their target audience, and achieve their marketing goals"
+                    },
+                    {
+                        "theme": "light",
+                        "head": "Achievements",
+                        "desc": "We're proud of our achievements. Our panel has been used by thousands of clients worldwide. An order is placed every 0.3 seconds on our platform, which speaks volumes about our reliability. We've completed numerous orders successfully and offer services at competitive prices."
+                    }
+                ]
+            },
+            "why_us": {
+                "header": "Why should you choose Bulkfollows?",
+                "content": "Bulkfollows offers its clients results-oriented services that last forever if you are looking for a Youtube SMM panel to increase YouTube watch time or you need YouTube views, likes or subscribers.<br>Then you are in the right place because here you can find the cheapest SMM packages for your YouTube channel or videos. We offer all major payment methods like Paypal, Paytm, Bitcoin, Jazzcash, Easy Paisa, etc, to complete the process in the most secure way. Bulkfollows build trust with their customers, which is why they keep us in their good book for their future needs.<br>Bulkfollows is also one of the leading SMM Reseller panels that provide an API to Resellers or Individuals who want to sell SMM Panel Services. Our best services include Buy Telegram Members, Buy YouTube views, Buy Twitter Followers, Buy Soundcloud likes, Buy YouTube subscribers, Buy Snapchat followers and many other activities at low prices. We only sell active and real activities that stay forever. Our social media services are very fast and up to date, and here at bulkfollows, social media activists are always ready to complete the project, applying their professional strategies organically.",
+                "btn": "Sign up now",
+                "items": [
+                    {
+                        "head": "100% Organic SMM Services",
+                        "desc": "Bulkfollows offers 100% real SMM activities, and for this purpose, our social media team drives millions of visitors to our clients' posts or accounts. We also use PPC to generate real SMM activities, and unlike other SMM reseller panels, we do not use any software or bots to generate social media activity therefore we can say that all of our accounts are real and active."
+                    },
+                    {
+                        "head": "Quality Service Guarantee",
+                        "desc": "The standard of our services is very high because our SMM Panel team is very dedicated and well-trained. Bulkfollows offers a money-back guarantee in case of any drop, and if you run into any problem, so we are always ready to refill your package in case of any issue. We guarantee that the accounts and activities we provide you will stay alive forever."
+                    },
+                    {
+                        "head": "24 / 7 Support Service",
+                        "desc": "The Bulkfollows support team is well-trained and always ready to help you with everything. We offer 24 / 7 support in a friendly environment. You can contact us at any time via chat or the contact forum. Our support team is aware of all technical issues as well as all custom packages of Bulkfollows."
+                    }
+                ]
+            },
+            "statistics": {
+                "header": "Statistics of Bulkfollows",
+                "content": "Bulkfollow clients exist all over the world, and we have over 50 million active clients with over 5000 active services. Our clients work with us because of the quality we offer. Bulkfollows offers the cheapest services in the world, and at the same time, our team is always working hard to maintain their quality so that you can get long-term results.",
+                "items": [
+                    {
+                        "head": "Prices Starting From",
+                        "desc": "0.001$/1k"
+                    },
+                    {
+                        "head": "Order Completed",
+                        "desc": "115608412"
+                    },
+                    {
+                        "head": "An order is made every",
+                        "desc": "0.14Sec"
+                    }
+                ]
+            },
+            "targeted": {
+                "header": "Targeted Social Media (SMM PANEL) Marketing Panel",
+                "content": "For those looking for extraordinary features and user-friendly services of Bulkfollows, Cheer Up! Because we are providing our Marketing over Multiple platforms.<br>Yes, Our Soundcloud and Telegram Panel Tactics will let you buy thousands of Likes, Shares, Views, and subscribers at very low prices. Plus, The YouTube, Spotify & Twitter/X.com Social Media Marketing panel of bulkfollows is fully designed for the user’s needs and satisfaction."
+            },
+            "seo": {
+                "header": "Superior SMM Panel to Boost Your Social Media Accounts",
+                "content": "Bulkfollows is a real booster for your social media accounts. We work hard to create results-driven strategies to generate social media activities organically. Our packages are very cheap, and we have created all kinds of packages for small, medium and large businesses. Try the Buslkfollows Marketing Panel for your social media growth.",
+                "btn": "Get started",
+                "items":[
+                    {
+                        "head": "Countries where most of our clients live",
+                        "desc": "Bulkfollows is highly regarded in the South Asia region, where India, Pakistan, Bangladesh and Sri Lanka frequently use our SMM Panel services. But we also have a huge number of clients in the USA, Canada, Brazil, Germany, UK, France, Russia and the United Arab Emirates. We also have a huge number of clients from West Asian countries such as Indonesia, Philippines, Malaysia and Singapore."
+                    },
+                    {
+                        "head": "Premier SMM Reseller Panel for Twitter Followers, Likes & Views",
+                        "desc": "If you want to increase the number of followers on your Twitter account, then Bulkfollows is the only place you can get real and active followers. Bulkfollows offers unlimited Twitter followers, likes and views at the lowest price. Our Twitter users are 100% original, and it will boost your Twitter account as well as your income."
+                    },
+                    {
+                        "head": "You Need Only 1500RS PayTM For SMM Panel India",
+                        "desc": "Yes! The minimum amount of 1500Rs is enough for bulkfollows. They also have a huge number of Indian Resellers reselling our social media marketing panel services with the Highest Quality in such a cost-effective budget."
+                    },
+                    {
+                        "head": "Bulkfollows is an extensive SMM Reseller Panel Provider.",
+                        "desc": "If you are looking to improve your social media accounts or if you are facing huge difficulties in promoting your product or services on social media, then Bulkfullows will offer the best solution to your problems. We have targeted packages that will not only increase your following but also increase your social media presence. Bulkfollows is the cheapest SMM Panel that has developed different pricing packages for YouTube, Twitter, Soundcloud, Spotify, Telegram and all major social networks. Our dedicated social media team applies results-oriented strategies to achieve long-term results in a short timeframe."
+                    },
+                    {
+                        "head": "Social Media Marketing Panel In Bangladesh",
+                        "desc": "Because we are serving Bangladeshi clients very well, Bulkfollow is well known in their SMM community. There are so many resellers from there that have been selling the panel for several years at such an effective budget. We accept Bangladeshi payments via bKash, Nagad, and Rocket, which makes Bulkfollows more interesting."
+                    }
+                ]
+            },
+            "features": {
+                "header": "Features Of BULKFOLLOWS",
+                "items": [
+                    {
+                        "head": "Best SMM Panel",
+                        "desc": "A strong community covered under the name Bulkfollow has been created that is working next-level and has made a huge name in Social Media Marketing. Yes! We aim to provide our practical services to our clients so that they get what they’re expecting. So, Check Our packages and start earning today with Us!"
+                    },
+                    {
+                        "head": "Cheapest SMM Panel",
+                        "desc": "Bulkfollows is a fully established and authentic social media marketing service provider that is working at a very low price. Their aim is to give a chance to everyone who can’t afford highly paid panels but can make the world of SMM panels more progressive."
+                    },
+                    {
+                        "head": "Google SMM Panel:",
+                        "desc": "It’s now an online, fast-paced world. Google Social Media marketing services are just the right pick for your social media and online visibility. After all, Google has a great hold. Hence, we get visitors and viewers on your social media accounts and website through Google SMM panel services. We responsibly provide you with safe, cheap, and very useful visitors."
+                    },
+                    {
+                        "head": "24/7 SMM Panel:",
+                        "desc": "Our services are offered all day, every day. Yes, we are here with our panel service provider platform 24/7. Our support team is always readily available 24/7 to look through any questions and queries our clients might have. Hence, choose our cheap and best SMM panel services without worrying about waiting for anything. We provide quick services, and we are available 24/7."
+                    },
+                    {
+                        "head": "SMM Panel Worldwide",
+                        "desc": "Having a Social Media Marketing Panel is not a big deal, but the question is, Does everyone have access to it? Keeping this thing in mind, We have made our SMM Panel to which anyone can have access from anywhere. Yes! And by proceeding properly, they can get the next-level services of Bulkfollow that are totally quick, efficient, and budget-friendly. So, what are you waiting for? We are spreading our word and services in your Place!"
+                    },
+                    {
+                        "head": "Indian SMM Panel:",
+                        "desc": "Our social media marketing platform derives its roots from India. However, it is available for worldwide purchasers. Our Indian SMM panel services are highly effective and useful when purchased online through our remarkable website. Indian Marketing Panel services are very advanced in terms of resolving quick marketing needs."
+                    },
+                    {
+                        "head": "SMM Panel Provider:",
+                        "desc": "We take pride in being the best social media marketing services provider, and that too worldwide. We not only offer 24/7 services but also very instant SMM panel services. We also have the safest and easiest payment options to choose from. Therefore, we are considered the most effective smm panel provider located in India, offering services worldwide."
+                    },
+                    {
+                        "head": "Reliable SMM Services:",
+                        "desc": "Our SMM services platform providing social media marketing services offers very reliable and high-quality SMM services. Our services include a great deal of social media marketing on all online platforms. We simply offer the cheapest packages to boost engagements and visibility. Our services are also offered in the form of wholesale packages."
+                    },
+                    {
+                        "head": "Wholesale SMM Services:",
+                        "desc": "Our wholesale social media marketing service packages are the best you can get online. We offer these packages to a worldwide audience so that anyone can benefit from them anywhere. After all, our social media marketing is world-famous because of its reliability, quickness, availability of 24/7 support, and low prices."
+                    },
+                    {
+                        "head": "SMM Reseller Panel:",
+                        "desc": "If you are someone who is looking to buy social media marketing panel services, then our platform is the best one for you. We have very efficient SMM reseller panel services at the cheapest prices on our online platform. Our SMM reseller panel services are here to increase the visibility and engagement of your social media accounts."
+                    },
+                    {
+                        "head": "Paytm SMM Panel Services:",
+                        "desc": "Our social media marketing service packages can be easily purchased through the Paytm option on our SMM Panel platform. Paytm is interlinked to our platform, so you can have easy and quick payments made through mobile. Therefore, buy the best SMM packages from our marketing platform without any worries."
+                    },
+                    {
+                        "head": "Paypal SMM Panel Services:",
+                        "desc": "If you are an international visitor on our website who is willing to buy our best and cheapest panel services, then we have PayPal SMM Panel Services for you. This service includes letting you buy the best and most effective social media marketing packages for a great audience and reach through enhanced engagement on your social handles."
+                    },
+                    {
+                        "head": "YouTube SMM Service Provider:",
+                        "desc": "Our SMM service provider platform has great packages for all social media handles. YouTube is the favourite one of the people. Therefore, if you are here to enhance your YouTube account’s worth, buy YouTube SMM services with us. We have the safest payment options, quick service, and 24/7 support, and we offer a great deal of engagement and visibility on the account."
+                    },
+                    {
+                        "head": "PUBG SMM Services:",
+                        "desc": "PUBG lovers can now get their rankings high with our SMM services. After all, PUBG is linked to our social media marketing services to cover it all. Therefore, buy our best PUBG SMM services if you are looking for a high ranking with the cheapest prices online. We offer our PUBG SMM services at the best prices because we know there are so many PUBG lovers out there."
+                    },
+                    {
+                        "head": "Top-Notch SMM Panel Services:",
+                        "desc": "Our Indian SMM Panel has the best and top-notch panel monetization services to purchase at the cheapest prices. If you are looking to enhance the viewership and audience of your social media handles, buying Social media maeketing panel services with us will get you the best results. Our SMM team offers results that are also very instant to blow your mind away with the effectiveness."
+                    },
+                    {
+                        "head": "Social Media Panel Services:",
+                        "desc": "Our social media panel offers all sorts of social media services, including likes, comments, views, and shares. Therefore, buy these services from our social media panel service packages. We have so many greatly curated packages for social media marketing for our clients worldwide. Also, our services are highly reliable, cheap, and instant."
+                    },
+                    {
+                        "head": "Social Media Marketing Services:",
+                        "desc": "Through our social media services, we help you grow your website and social media handles quickly. Our team offers 24/7 support to fulfil any queries or questions related to the number of likes, shares, comments, engagements, etc. Just put your trust in our platform, as we are well-known and reliable internationally. We offer quick and long-term solutions."
+                    },
+                    {
+                        "head": "Social Media Marketing Worldwide:",
+                        "desc": "We take very good care of your social media handles by providing the best social media marketing services. The experts in our team are always doing their best job to offer a great deal of engagement, visibility, and publicity to your social media accounts and products. Therefore, buy social media marketing service packages worldwide with us. We offer reliability and high quality."
+                    },
+                    {
+                        "head": "SMM YouTube Services:",
+                        "desc": "If you have a YouTube account or a YouTube channel and you want it to get active subscribers with engagement, then don’t wait anymore. Buy our YouTube SMM service packages from our website, as we have the safest payment procedures and highly quick results. You will see amazing results and engagements overnight of making your payment with us."
+                    }
+                ]
+            },
+            "faq": {
+                "site": {
+                    "header": "FAQ Bulkfollows",
+                    "items": [
+                        {
+                            "head": "How to Register?",
+                            "desc": "To register on Bulkfollows, visit our website, click on the 'Sign Up' button, fill in your details, and submit. You'll receive a confirmation email to activate your account."
+                        },
+                        {
+                            "head": "How to Add Funds?",
+                            "desc": "To add funds, log into your Bulkfollows account, click on 'Add Funds,' choose your preferred payment method, enter the amount you want to add, and follow the prompts."
+                        },
+                        {
+                            "head": "How to Place an Order?",
+                            "desc": "To place an order, select the service you want, enter the necessary details like your social media account link or post link, choose the number of likes, views, or followers you want, and proceed to checkout."
+                        },
+                        {
+                            "head": "How Bulkfollows can Help you Make Money?",
+                            "desc": "Bulkfollows offers a reseller panel. This allows you to buy our services at a discounted rate and sell them to your clients at a profit. Whether you're a digital marketing agency or a freelance marketer, you can earn money by reselling our services."
+                        },
+                        {
+                            "head": "Do we offer Targeted SMM Panel Services?",
+                            "desc": "We offer targeted SMM services. This means that you can choose to receive likes, followers, views, etc., from a specific country or demographic. This can help you reach your target audience more effectively."
+                        },
+                        {
+                            "head": "Why Choose Bulkfollows?",
+                            "desc": "Bulkfollows offers affordable, high-quality, and fast SMM services. We have a user-friendly platform, offer secure payment options, and provide excellent customer support. Moreover, our clients trust us for our reliability and transparency."
+                        }
+                    ]
+                },
+                "panel": {
+                    "header": "FAQ SMM Panel",
+                    "items": [
+                        {
+                            "head": "What is an SMM Panel?",
+                            "desc": "An SMM panel is a platform that offers SMM services like likes, followers, views, etc., for various social media platforms. It's a tool that businesses or individuals can use to boost their online presence."
+                        },
+                        {
+                            "head": "What is a Social Media Marketing Service?",
+                            "desc": "Social media marketing service refers to the process of gaining traffic or attention through social media sites. This can include services like getting more likes, followers, comments, shares, etc."
+                        },
+                        {
+                            "head": "Which is the Best and Cheapest SMM Panel in India?",
+                            "desc": "Bulkfollows prides itself on being one of the best and cheapest Social media marketing panels not just in India, but globally. We provide high-quality services at affordable prices."
+                        },
+                        {
+                            "head": "Who offers the Best SMM Service?",
+                            "desc": "Bulkfollows offers some of the best SMM services. Our services are high-quality, affordable, and delivered in a timely manner."
+                        },
+                        {
+                            "head": "Which is the Cheapest SMM Panel?",
+                            "desc": "Bulkfollows is one of the cheapest marketing panels. We offer a wide range of services at affordable prices without compromising on quality."
+                        },
+                        {
+                            "head": "What are the SMM Panel Payment Methods?",
+                            "desc": "We accept a wide range of payment methods, including credit cards, PayPal, Payoneer, Skrill, Western Union, and more."
+                        },
+                        {
+                            "head": "Which are the Countries using SMM Panel?",
+                            "desc": "SMM panels are used globally. Bulkfollows has clients from various countries like the United States, India, Bangladesh, Pakistan, the United Kingdom, Canada, and more."
+                        },
+                        {
+                            "head": "Who Offers the Best and Cheapest SMM Panel in Bangladesh?",
+                            "desc": "Bulkfollows offers some of the best and cheapest SMM services in Bangladesh. Our services are high-quality, affordable, and trusted by many businesses in Bangladesh."
+                        },
+                        {
+                            "head": "Who Offers the Best and Cheapest SMM Panel in Pakistan?",
+                            "desc": "Bulkfollows is a popular choice for high-quality and affordable SMM services in Pakistan. Our reliable services and excellent customer support have made us a preferred choice."
+                        },
+                        {
+                            "head": "What is a Wholesale SMM Panel?",
+                            "desc": "A wholesale SMM panel offers SMM services at a significantly lower price. Resellers often use wholesale media panels to buy services in bulk and then sell them at a profit."
+                        },
+                        {
+                            "head": "What is a Worldwide SMM Panel?",
+                            "desc": "A worldwide SMM panel is an SMM service provider that caters to clients from all over the world. Bulkfollows is a worldwide marketing panel offering high-quality services globally."
+                        }
+                    ]
+                }
+            },
+            "cheapest": {
+                "header": "Cheapest SMM Reseller Panel",
+                "items": [
+                    {
+                        "head": "What is an SMM Panel Reseller?",
+                        "desc": "An SMM panel reseller is someone who buys SMM services from providers like Bulkfollows at wholesale prices and resells them to their clients at a profit."
+                    },
+                    {
+                        "head": "What is an SMM Panel Provider?",
+                        "desc": "An SMM panel provider is a platform like Bulkfollows that offers a variety of SMM services. These services can be purchased by individuals or resellers."
+                    },
+                    {
+                        "head": "What Is A Child SMM Panel?",
+                        "desc": "A Child SMM Panel typically refers to a service or platform that offers Social Media Marketing solutions specifically designed for a younger audience or users who may be minors."
+                    },
+                    {
+                        "head": "SMM Panel Services",
+                        "desc": "Bulkfollows offers a range of SMM services across various social media platforms. Here's a look at some of them:"
+                    },
+                    {
+                        "head": "Soundcloud SMM Panel",
+                        "desc": "Boost your Soundcloud presence with our Soundcloud SMM services. Get more likes, shares, and followers."
+                    },
+                    {
+                        "head": "Spotify SMM Panel",
+                        "desc": "Expand your Spotify reach with our Spotify SMM services. Get more likes, followers and Views."
+                    },
+                    {
+                        "head": "YouTube SMM Panel",
+                        "desc": "Skyrocket your YouTube channel's growth with our YouTube SMM services. Get more views, likes, and subscribers."
+                    },
+                    {
+                        "head": "Telegram SMM Panel",
+                        "desc": "Grow your Telegram channel with our Telegram SMM services. Get more members and post views."
+                    },
+                    {
+                        "head": "Snapchat SMM Panel",
+                        "desc": "Boost your Snapchat story views and followers to increase your customers with our Snapchat SMM services."
+                    },
+                    {
+                        "head": "Best SMM Service",
+                        "desc": "Our Panel is one of the Best SMM Panels that pride ourselves on offering the best SMM services. With our affordable prices, high-quality services, and exceptional customer support, we aim to provide the best experience for our clients. Here are some FAQs to help you understand our services better:"
+                    }
+                ]
+            },
+            "blogs": {
+                "header": "Some of our Blogs"
+            },
+            "register": {
+                "header": "Get Register to Check our Whole Website",
+                "content": "Bulkfollows offers a wide range of services to make your marketing campaign easier. Our cheapest and performance oriented packages can improve your social media visibility and increase your income. Bulkfollows offers a free trial for Youtube, Twitter, Telegram, Spotify, Soundcloud and all major social networks. We always promise effective growth in the world of social networks at an affordable price.",
+                "btn": "Get started"
+            }
+        },
+        "services": {
+            "header": "Services",
+            "description": "<p>To Grow your social media pages or accounts, buying quality services is the most important thing you must decide before purchasing from smm panels. Bulkfollows offers all kinds of social media services, including YouTube, Twitter, Spotify, Soundcloud, Linkedin, Pinterest, Discord, Telegram, Snapchat, Shopee, Line, Twitch, Audiomack, Tumblr, Clubhouse, Reddit and many more social media.</p><p> Sign In To Bulkfollows to get the Latest Prices for each service.</p>",
+            "items": [
+                {
+                    "head": "Youtube SMM PANEL",
+                    "desc": "From Bulkfollows you can purchase quality Youtube Views, Subscribers, likes, dislike & comments at cheapest prices. Also, If you are planning to get viewers to your Live video on YouTube, you can purchase from Bulkfollows SMM Panel."
+                },
+                {
+                    "head": "Telegram SMM PANEL",
+                    "desc": "Telegram one of the top growing social media in 2023 and all people want to grow their telegram channel or groups. Buy quality Telegram members for your channel or groups from Bulkfollows Cheap SMM panel."
+                },
+                {
+                    "head": "Spotify SMM PANEL",
+                    "desc": "Get Popular on Spotify after purchasing plays, followers, likes for your artist on spotify. Buy High Quality Instant Spotify Plays for your song/tracks, likes for your playlist/album, and Followers for your artist profile from Bulkfollows SMM Panel."
+                },
+                {
+                    "head": "Twitch SMM PANEL",
+                    "desc": "If you love to plays gave and you want people to watch your game live on Twitch, then buy Twitch Live views from Bulkfollows SMM Panel. Not only live views, but also followers for your twitch pages and likes/comments for your videos."
+                },
+                {
+                    "head": "Twitter SMM PANEL",
+                    "desc": "If you have a Twitter account and want to get more followers, likes, retweets and Most importantly Impression to your post to be eligible for twitter monetization, then buy Twitter Followers, Likes, Retweets, Post Impression/views from Bulkfollows SMM Panel at cheap price."
+                },
+                {
+                    "head": "Discord SMM PANEL",
+                    "desc": "From Bulkfollows SMM Panel, you can buy Discord members for your channel or groups. You can also choose either you want to buy male or female discord members, Our member will be Online on your channels. Bulkfollows also sell Discord Friend Request."
+                },
+                {
+                    "head": "Soundcloud SMM PANEL",
+                    "desc": "Bulkfollows SMM Panel Selling Soundcloud Followers for the artist, Likes, comments & Plays for any tracks instantly at cheap price. Our services are quality and stable."
+                },
+                {
+                    "head": "Audiomack",
+                    "desc": "If you want to grow your Audiomack page/profile then Bulkfollows smm panel is the right website. You can buy followers, likes & plays/streams for your audiomack from Bulkfollows at cheap cost."
+                },
+                {
+                    "head": "Clubhouse",
+                    "desc": "Clubhouse are popular social media for Audio/Text chat rooms. Bulkfollows smm panel sell Visitors for chat rooms. Also Bulkfollows sell clubhouse profile/page followers as well."
+                },
+                {
+                    "head": "Reddit",
+                    "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam, sunt illum id quas in vitae fugit autem hic quaerat omnis maiores iusto consectetur. Optio, ab cumque reiciendis quod ea porro!"
+                },
+                {
+                    "head": "Datpiff",
+                    "desc": "Datpiff profile views, Plays & Stream you can buy from Bulkfollows smm panel to boost your Datpiff pages/profile at cheap cost."
+                },
+                {
+                    "head": "Deezer",
+                    "desc": "If you are a musician and you want to boost your Deezer profile or want to get plays/stream for your track/songs then Bulkfollows is the best smm panel to buy all services."
+                },
+                {
+                    "head": "Kiwi",
+                    "desc": "Buy Kiwi Followers, Buy Kiwi Likes & Buy Kiwi Shares at cheap cost from Bulkfollows SMM panel to grow your Kiwi profile/pages or post."
+                },
+                {
+                    "head": "Tumblr",
+                    "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam, sunt illum id quas in vitae fugit autem hic quaerat omnis maiores iusto consectetur. Optio, ab cumque reiciendis quod ea porro!"
+                },
+                {
+                    "head": "Snapchat",
+                    "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam, sunt illum id quas in vitae fugit autem hic quaerat omnis maiores iusto consectetur. Optio, ab cumque reiciendis quod ea porro!"
+                },
+                {
+                    "head": "Likee",
+                    "desc": "Bulkfollows Cheap SMM panel sell Likee Services Which is popular social panel in Thailand, China, Taiwan and some other asian countries. Bulkfollows sell Likee Likes, followers & Views at cheap cost."
+                }
+            ]
+        },
+        "terms": {
+            "header": "Terms Of Service",
+            "description": "The use of services provided by Bulkfollows ( Digital Web Solutions FZ LLC - “United Arab of Emirates is our country of domicile” and stipulates that the governing law is the local law ) Established  the agreement to these terms.<br>By registering or using our services you agree that you have read and fully<br>understood the following terms of Service and Bulkfollows will not be help liable for loss in any way for users who have not read the below terms of service.",
+            "term_headers": [
+                {
+                    "head": "General",
+                    "desc": "Click Here"
+                },{
+                    "head": "Services",
+                    "desc": "Click Here"
+                },{
+                    "head": "Refund Policy",
+                    "desc": "Click Here"
+                },{
+                    "head": "Privacy Policy",
+                    "desc": "Click Here"
+                }
+            ],
+            "term_contents": [
+                {
+                    "head": "General Info",
+                    "desc": "<li>By placing an order with Bulkfollows, you automatically accept all the below-listed term of services whether you read them or not.</li><li>We reserve the right to change these terms of service without notice. You are expected to read all terms of service before placing every order to ensure you are up to date with any changes or any future changes.</li><li>You will only use the Bulkfollows website in a manner which follows all agreements made with Soundcloud/Vine/Pinterest/Youtube/other social media site on their individual Terms of Service page.</li><li>Bulkfollows rates are subject to change at any time without notice. The terms stay in effect in the case of rate changes.</li><li>Bulkfollows does not guarantee a delivery time for any services. We offer our best estimation for when the order will be delivered. This is only an estimation and Bulkfollows will not refund orders that are processing if you feel they are taking too long.</li><li>Bulkfollows tries hard to deliver exactly what is expected of us by our resellers. In this case, we reserve the right to change a service type if we deem it necessary to complete an order</li><p>Disclaimer:<br>Bulkfollows will not be responsible for any damages you or your business may suffer.<br></p><p>Liabilities:<br>Bulkfollows is in no way liable for any account suspension or picture deletion done by YouTube or Soundcloud or Vine or Pinterest or Other Social Media.</p>"
+                },
+                {
+                    "head": "Services",
+                    "desc": "<li>Bulkfollows will only be used to promote your YouTube or Soundcloud or Vine or Pinterest or Social account and help boost your 'Appearance' only.</li><li>We DO NOT guarantee your new followers will interact with you, we simply guarantee you to get the followers you pay for.</li><li>We DO NOT guarantee 100% of our accounts will have a profile picture, full bio and uploaded pictures, although we strive to make this the reality for all accounts.</li><li>You will not upload anything into the Bulkfollows site including nudity or any material that is not accepted or suitable for the YouTube or Soundcloud or Vine or Pinterest or Social Media community.</li><li>If your page had 100k+ followers/likes/views already before you order us, it will not cover refill protection, even if you order for refill server from us, as its not possible to understand from where you lost the followers/likes/views.</li>"
+                },
+                {
+                    "head": "Refund Policy",
+                    "desc": "<li>After deposit, if you would like to get refund the remaining balance, you can ask for refund to your payment gateway any time you want. We will refund to your payment gateway within 6-12 hrs. However, getting money to your card or bank depend on your local bank or card company.</li><li>If you file a dispute or charge-back against us after a deposit without any valid reason, we reserve the right to terminate all future orders, ban you from our site. We also reserve the right to take away any followers or likes we delivered to your or your client's Instagram/Facebook/Twitter or other social media account.</li><li>Orders placed in Bulkfollows, will be refunded or canceled if a customer requests for it.Y ou will receive a refund credit to your Bulkfollows account if the order is non-deliverable.</li><li>Misplaced or Private account orders will not qualify for a refund. Be sure to confirm each and every order before placing it.</li><li>Fraudulent activity such as using unauthorized or stolen credit cards will lead to termination of your account. There are no exceptions.</li><li>Please do not use more than one server at the same time for the same page. We cannot give you the correct followers/likes number in that case. We will not refund these orders.</li>"
+                },
+                {
+                    "head": "Privacy Policy",
+                    "desc": "<p>HI THERE - WE RESPECT YOUR PRIVACY!</p><p>WE HATE PRIVACY BREACH AS MUCH AS YOU DO. BUT DURING THE TOTAL BUSINESS PROCESS WITH YOU, WE MIGHT NEED TO SHARE SOME OF YOUR DATA WITH THIRD PARTY. DETAILS OF OUR PRIVACY POLICY IS GIVEN BELOW. PLEASE NOTE THAT, BY PLACING ORDER WITH BULKFOLLOWS, YOU AGREE WITH OUR TERMS AND CONDITIONS AND PRIVACY POLICY. WE MIGHT CHANGE THE PRIVACY POLICY TIME TO TIME.</p><p><b>PLEASE READ THE FOLLOWING CAREFULLY BEFORE PROCEEDING TO USE BULKFOLLOWS:</b></p><p><b>Data Collection:</b></p><p>This document describes the official privacy policy of BulkFollows. The user is advised to read the privacy policy and ensure that he/she has no ambiguity with reference to any point of the Privacy Policy.</p><p>The user is informed that by visiting, using and continuing to use BulkFollows or subscribing to any package of the Services, it shall be presumed that the user has accepted all the points of the Privacy Policy. If you do not agree to the Privacy Policy, please do not use BulkFollows.com and the Services.</p><br><p><b>What information we collect:</b></p><p>We might collect the following information from our user and use for the purpose of completing the transaction, job, and maintenance of our financial or strategic information:</p><p>• Name<br>• Business Name<br>• User name of the client’s social media account<br>• Email<br>• Phone number<br>• User preferences and history of internet use for optimization of the services by employing the cookies.</p><br><p><b>What are Cookies?</b></p><p>The cookies are a small piece of data consisting of a text-only string of information introduced by a particular website and are stored in the hard disk of the machine. They collect data relating to the browsing preferences and history, and such other information the user has provided to the website.</p><br><p><b>Our Cookies</b></p><p>Our cookies aim to give the user an optimal use of BulkFollows.com. The collected information is also used for general marketing and statistical analysis. Our cookies do not collect personal data of user. Some cookies are communicated to the user’s hard disk by the third party. BulkFollows has no affiliation with such party. BulkFollows disclaims any liability arising from such cookies. The client is advised to read the respective policy of the third party or block their entrance.</p><br><p><b>How to Stop Cookies</b></p><p>By default, the browsers are set to allow cookies. The user may opt to disable cookies if he/she does not want them to process in user’s machine by changing browser settings. It is also possible to configure browser setting allowing some and denying the others to have access to the user’s computer or set the browser to notify when a cookie knock. The ‘Help’ section of the browser may assist the user to manage the cookies preference.</p><br><p><b>Security and Confidentiality of the Information</b></p><p>BulkFollows respect the privacy of the user. BulkFollows employs a sophisticated security system to make it sure that such information is within the trusted staff of BulkFollows and uses it on the ‘need-to-know basis’. The payment-related information is encrypted with the help of the highly reliable technology SSL. BulkFollows has taken all the possible steps to safeguard the information relating to the user is safe. BulkFollows disclaims the liability in case of BulkFollows fails to maintain the security due to the cause beyond the reasonable control.</p><br><p><b>Modifications</b></p><p>BulkFollows may change, modify or amend the Privacy Policy at any time without prior notice. The amended version of Privacy Policy shall immediately be effective after it is posted on BulkFollows.com</p>"
+                }
+            ]
+        },
+        "how_it_works": {
+            "header": "HOW IT WORKS BulkFollows",
+            "steps": [
+                {
+                    "head": "Sign up",
+                    "desc": "First you need have account for login then you can see dashboard , we make sign up easy and this basic , same like you make account social media . and dont worry all details is safe , we not share your details to others.",
+                    "btn": "Sign Up Now"
+                },
+                {
+                    "head": "Add Funds",
+                    "desc": "Second you need deposit fund to your account in bulkfollows deposit iseasy and secure , and we have much payment channel for you. For deposit please go to “https://bulkfollows.com/addfunds” you can find “Add funds” at slidebar",
+                    "btn": "Sign Up Now"
+                },
+                {
+                    "head": "Create Order",
+                    "desc": "Third after you have balance in your account , so now you can place orders in form , see step by step . you can check “https://bulkfollows.com/services” to see all service and price.",
+                    "btn": "Sign Up Now"
+                }
+            ],
+            "step_boxes":[
+                {
+                    "head":"Select service",
+                    "desc":"First you need select the category service you needed. for example you need service “♛ Twitter Followers” so select that service."
+                },
+                {
+                    "head":"Select service",
+                    "desc":"Second you select the service from category you select , example “ID:5744 - Twitter - Followers ~ 100k ~ 10k/days ~ Asian/English ~ [ 𝔅𝗲𝙨𝘁 - 𝐒𝐩𝐞𝐞𝐝 ] — $1.56 per 1000” and you also can see price / 1000 quantity"
+                },
+                {
+                    "head":"See Description",
+                    "desc":"Third you can see the description about your service select so before you orders you can know quality this service, because we want our service transparent without being covered"
+                },
+                {
+                    "head":"Fill The Link",
+                    "desc":"Fourth, you must fill in the link “https://www.yourlink.com/“ this example you can copy in your Twitter Profile link ."
+                },
+                {
+                    "head":"Fill The Amount",
+                    "desc":"Fifth you have to fill in the amount you want from the service, and underneath you will see the minimum and maximum"
+                },
+                {
+                    "head":"Place Order",
+                    "desc":"Finally you will see the total amount you have to pay, this will take on your balance. then click submit to place orders"
+                }
+            ],
+            "order_history_image": "order_history.webp",
+            "statuses": [
+                {
+                    "head": "Pending",
+                    "desc": "THE ORDER(S) WAS JUST ADDED TO THE QUEUE SYSTEM AND WILL START PROCESSING SOON IF THERE ARE NO DELAYS"
+                },
+                {
+                    "head": "In Progress",
+                    "desc": "THE ORDERS(S) ARE CURRENTLY IN PROGRES, YOU SEE SOME RESULTS RIGHT NOW OR SOON ON YOUR LINK"
+                },
+                {
+                    "head": "Refund",
+                    "desc": "THE ORDERS(S) ARE REFUNDED, WE HAVE CREDITED BACK THE FULL AMOUNT OF THIS TRANSACTION INTO YOUR BALANCE"
+                },
+                {
+                    "head": "Completed",
+                    "desc": "THE ORDER(S) ARE COMPLETED, AND NO FURTHER ACTIONS MUST BE TAKEN."
+                },
+                {
+                    "head": "Procesing",
+                    "desc": "THE ORDERS(S) ARE CURRENTLY PROCESSING, YOU SHOULD SEE SOME RESULTS RIGHT NOW OR SOON ON YOUR LINK"
+                },
+                {
+                    "head": "Canceled",
+                    "desc": "THE ORDERS(S) IS/ARE CANCELLED AND THEY WILL NOT EXECUTE AGAIN. USUALLY CANCELLED MANUALLY OR BY AN OPERATOR"
+                },
+                {
+                    "head": "Partial",
+                    "desc": "THE ORDERS(S) ARE PARTIAL REFUNDED. WE HAVE CREDITED A PORTION OF THE FUNDS INTO YOUR ACCOUNT, BASED ON THE REMAIN AMOUNT."
+                }
+            ]
+        },
+        "blog": {
+            "header": "BulkFollow Blogs",
+            "content": "Get hundreds of High Quality Social Media Services from cheap smm panel in a distance of a click. Bulkfollows is a SMM Panel with more then 5 year on the market and more then 40 million orders processed successfully!"
+        },
+        "register": {
+            "header": "Register On Bulkfollows",
+            "description": "If you are looking for cheap smm panel services, bulkfollows is the right panel for this.",
+            "email": "your@email.com",
+            "username": "Your username",
+            "firstname": "Your First Name",
+            "lastname": "Your Last Name",
+            "skype": "Real Skype Username",
+            "whatsapp": "Whatsapp Number",
+            "telegram": "Telegram",
+            "pasword": "Secure Password",
+            "confirm_password": "Confirm Password",
+            "btn": "Sign up",
+            "have_an_account": "Already have an account?",
+            "signin": "Sign in"
+        }
+    },
+    "panel": {
+        "general": {
+            "service_categories": [
+                {
+                    "head": "Instagram"
+                },
+                {
+                    "head": "Facebook"
+                },
+                {
+                    "head": "Youtube"
+                },
+                {
+                    "head": "Twitter"
+                },
+                {
+                    "head": "Spotify"
+                },
+                {
+                    "head": "Tiktok"
+                },
+                {
+                    "head": "Linkedin"
+                },
+                {
+                    "head": "SoundCloud"
+                },
+                {
+                    "head": "Telegram"
+                },
+                {
+                    "head": "Websites Traffic"
+                },
+                {
+                    "head": "Other"
+                },
+                {
+                    "head": "Everything"
+                }
+            ],
+            "search": "Search"
+        },
+        "header": {
+            "mode": "Mod",
+            "update": "Update",
+            "addfund": "AddFund",
+            "notification": "Notification",
+            "account": "Account",
+            "currency_switcher": "Currency Switcher",
+            "logout": "Logout",
+            "new_order": "NEW ORDER",
+            "order_history": "ORDER HISTORY",
+            "services": "SERVICES",
+            "deposit": "DEPOSIT",
+            "child_panels": "CHILD PANELS",
+            "get_support": "GET SUPPORT",
+            "more": "MORE",
+            "dashboard": "Dashboard",
+            "updates": "Updates",
+            "faq": "FAQ",
+            "api_docs": "API DOCS",
+            "affiliates": "AFFILIATES"
+        },
+        "new_order": {
+            "info": {
+                "total_orders": {
+                    "head": "Total Orders",
+                    "desc": "14+ years experience providing SMM services!"
+                },
+                "balance": {
+                    "head": "You Have Spent ≈",
+                    "desc": "You have currently ≈",
+                    "link": "/panel/deposit"
+                },
+                "points": {
+                    "head": "Available Points",
+                    "desc": "For redeem point"
+                },
+                "status": {
+                    "head": "Account status",
+                    "desc": "Want to know more?"
+                }
+            },
+            "new_order": "New Order",
+            "search": "Search",
+            "category": "Category",
+            "link": "Link",
+            "quantity": "Quantity",
+            "min_max": "Min: 2 - Max: 1000",
+            "charge": "Charge",
+            "submit": "Submit",
+            "mass_orders": {
+                "head": "Mass Orders",
+                "desc": "One order per line in format",
+                "textarea_desc": "service_id | link | quantity",
+                "btn": "Submit"
+            },
+            "my_favorite": {
+                "head": "My Favorite",
+                "desc": "You have not added any services to your favourites, You can add your favorites from Services Page"
+            },
+            "frequent_orders": {
+                "head": "Frequent Orders",
+                "desc": "Your frequent orders will be displayed here"
+            },
+            "auto_subscriptions": {
+                "category": "Category",
+                "service": "Service",
+                "username": "Username",
+                "new_posts": "New posts",
+                "old_posts": "Old posts",
+                "quantity": "Quantity",
+                "min": "Min",
+                "max": "Max",
+                "min_max": "Min: 10 - Max: 40000",
+                "delay": "Delay",
+                "expiry": "Expiry"
+            },
+            "details": {
+                "head": "Details",
+                "contact_us": "Contact Us",
+                "example_link": "Example Link",
+                "start_time": "Start Time",
+                "speed": "Speed",
+                "guaranteed": "Guaranteed",
+                "average_time": "Average Time",
+                "description": "Description"
+            },
+            "contact_us": {
+                "head": "Contact Us",
+                "desc": "Need help? We are always ready to help you in any of your needs!<br> Choose the best way to get in touch and we'll contact you ASAP!",
+                "support_ticket": "Support Ticket (easiest & fastest)",
+                "skype": "Skype",
+                "email": "Email"
+            }
+        },
+        "order_history": {
+            "all": "All",
+            "pending": "Pending",
+            "in_progress": "In Progress",
+            "completed": "Completed",
+            "partial": "Partial",
+            "processing": "Processing",
+            "canceled": "Canceled",
+            "table_header": "Orders History",
+            "table_heads": [
+                {
+                    "head": "ID",
+                    "name": "id"
+                },
+                {
+                    "head": "Service",
+                    "name": "service"
+                },
+                {
+                    "head": "Link",
+                    "name": "link"
+                },
+                {
+                    "head": "Status",
+                    "name": "status"
+                },
+                {
+                    "head": "Charge",
+                    "name": "charge"
+                },
+                {
+                    "head": "Quantity",
+                    "name": "quantity"
+                },
+                {
+                    "head": "Details",
+                    "name": "details"
+                },
+                {
+                    "head": "Order Again",
+                    "name": "order_again"
+                }
+            ]
+        },
+        "services": {
+            "header": "Services | Bulkfollows SMM Panel",
+            "filters": "Filter Services",
+            "table_heads": [
+                {
+                    "head": "ID",
+                    "name": "id"
+                },
+                {
+                    "head": "Service",
+                    "name": "service"
+                },
+                {
+                    "head": "Rate per 1000",
+                    "name": "rate"
+                },
+                {
+                    "head": "Min / Max",
+                    "name": "min_max"
+                },
+                {
+                    "head": "Refill",
+                    "name": "refill"
+                },
+                {
+                    "head": "Avg. Time",
+                    "name": "average_time"
+                },
+                {
+                    "head": "Description",
+                    "name": "id"
+                }
+            ]
+        },
+        "deposit": {
+            "add_funds": "ADD FUNDS",
+            "check_history": "CHECK HISTORY",
+            "trio": [
+                {
+                    "desc": "you currently have "
+                },
+                {
+                    "desc": "Add Funds On Bulkfollows"
+                },
+                {
+                    "desc": "👉 Dear kalinux0, আপনি যদি বাংলাদেশী পেমেন্ট গেটওয়ে আমার-পে ( বিকাশ, নগদ, ব্যাঙ্ক ) এর মাদ্ধমে পে করতে চান, দয়া করে টিকেট ওপেন করুন."
+                }
+            ],
+            "description": "👉 Hey kalinux0, No More Longer waiting, Deposit fund with Binance pay and get fund Instantly.<br>If you are Binance account holder, then just scan the QR code and pay from your Binance account in 1 second.",
+            "add_funds_on": " Add Funds On Bulkfollows",
+            "choose_payment": " Choose your Payment Method",
+            "payment_methods": [
+                {
+                    "header": "Crpyto",
+                    "methods": [
+                        {
+                            "head": "₿ 𝐂𝐫𝐲𝐩𝐭𝐨𝐦𝐮𝐬 - 𝐔𝐒𝐃𝐓 | 𝐁𝐓𝐂 | 𝐁𝐂𝐇 | 𝐄𝐓𝐇 | 𝐋𝐓𝐂 + More [ 6％ 𝐁𝐨𝐧𝐮𝐬 ]",
+                            "id": "cryptopmus",
+                            "instruction": "<img src='/img/binance.png'><p>Deposit ⇨ [ 10$ to 10000+$ ] ⇨ Get 5% Bonus</p>"
+                        },
+                        {
+                            "head": "₿ 𝐁𝐢𝐧𝐚𝐧𝐜𝐞 𝐏𝐚𝐲 -  𝟓％ 𝐁𝐨𝐧𝐮𝐬 ",
+                            "id": "binance_pay",
+                            "instruction": "<img src='/img/binance.png'><p>Deposit ⇨ [ 10$ to 10000+$ ] ⇨ Get 5% Bonus</p>"
+                        },
+                        {
+                            "head": "₿ 𝗖𝐨𝐢𝐧𝐛𝐚𝐬𝐞 ~ USDC | BTC | BTC Cash | ETH | LTC - 𝟓％ 𝐁𝐨𝐧𝐮𝐬",
+                            "id": "coinbase",
+                            "instruction": "<img src='/img/binance.png'><p>Deposit ⇨ [ 10$ to 10000+$ ] ⇨ Get 5% Bonus</p>"
+                        },
+                        {
+                            "head": "₿ 𝗖𝐨𝐢𝐧𝐏𝐚𝐲𝐦𝐞𝐧𝐭𝐬 ~ USDT |  BTC | BTC Cash | ETH | LTC - 𝟓％ 𝐁𝐨𝐧𝐮𝐬",
+                            "id": "coinpayments",
+                            "instruction": "<img src='/img/binance.png'><p>Deposit ⇨ [ 10$ to 10000+$ ] ⇨ Get 5% Bonus</p>"
+                        }
+                    ]
+                }
+            ],
+            "instruction": "Instruction",
+            "choose_payment_amount": "Choose your Payment Amount",
+            "after_bonus": "After Bonus you get",
+            "continue_to_payment": "Continue to Payment",
+            "payment_gateways": "Payment Gateways Information",
+            "payment_gateways_desc": "Please check this informations before you make any payment or submit any ticket"
+        },
+        "child_panels": {
+            "video_url": "https://www.youtube.com/embed/zx-BAU4ezv8",
+            "steps": [
+                {
+                    "head": "Step 1",
+                    "desc": "Enter your domain"
+                },
+                {
+                    "head": "Step 2",
+                    "desc": "Select your currency"
+                },
+                {
+                    "head": "Step 3",
+                    "desc": "Enter your username"
+                },
+                {
+                    "head": "Step 4",
+                    "desc": "Enter your password"
+                }
+            ],
+            "info": "👉 Hey kalinux0, If you want to login your child panel admin, then you should login to your domain/admin, For an example if you are Domain URL is https://abcd.com, then you can login here: https://abcd.com/admin.",
+            "domain": "Domain",
+            "ns_info": "<p>Please visit your registrar's dashboard to change nameservers to:</p><ul><li>ns1.perfectdns.com</li><li>ns2.perfectdns.com</li></ul>",
+            "currency": "Currency",
+            "admin_username": "Admin username",
+            "admin_password": "Admin password",
+            "confirm_password": "Confirm password",
+            "price_per_month": "Price per month",
+            "submit_order": "Submit_order",
+            "faq": [
+                {
+                    "desc": "A child panel is a panel with a limited selection of features that is linked to one of your regular panels such as <a href=\"/\">Bulkfollows.com</a>",
+                    "head": "What is child panel? "
+                },
+                {
+                    "desc": "It will cost you 19.99$ per month. Please note, you paying for panel, not for services, you have to pay for the services you will purchase from bulkfollows",
+                    "head": "How much cost for a child panel?"
+                },
+                {
+                    "desc": "It will take 3-6 hrs to active your child panel if you changed your name server perfectly.",
+                    "head": "How long it will take to activate the child panel ?"
+                },
+                {
+                    "desc": "No, for child panel you just need a domain and that's all.",
+                    "head": "Do you need hosting for child panel ?"
+                },
+                {
+                    "desc": "If you have domain, you can simply change your domain name server and point it to<br><b>ns1.perfectdns.com</b><b>ns2.perfectdns.com</b><br>After you successfully changed the name server, you can submit a order for child panel",
+                    "head": "I have domain, what i can do next ?"
+                },
+                {
+                    "desc": "Its actually depend on your domain provider, if you go to your domain settings and choose custom DNS and enter the name server given by bulkfollows.",
+                    "head": "How can i change name server for my domain?"
+                },
+                {
+                    "desc": "You can simply go to https://yourdomain.com/admin/settings/providers and you will find out option to connect your panel with bulkfollows. You can a key to connect your panel with bulkfollows. This key you will find out on settings of your bulkfollows account.",
+                    "head": "How to i connect child panel with bulkfollows?"
+                },
+                {
+                    "desc": "Unfortunately refund not possible after we activate your child panel. But you can terminate your child panel any time by creating a ticket to us.",
+                    "head": "How can i get refund for child panel if i am not interested to continue?"
+                },
+                {
+                    "desc": "10.\tYou can simply, change your new domain name server and send to us your new domain address. We will replace your new domain with old domain. But, this change only possible for 1 time. ",
+                    "head": "I want to change my child panel domain address, what i need to do ?"
+                },
+                {
+                    "desc": "Unfortunately, there is no affiliate feature on child panel",
+                    "head": "How can i activate affiliate on my child panel."
+                },
+                {
+                    "desc": "You can visit https://yourdomain.com/admin/settings/payments - Add method - Choose Payment Method ",
+                    "head": "How can i add payment gateway on our child panel? "
+                },
+                {
+                    "desc": "You customer will pay to your own payment gateway account, they are not paying to us. So, you don't have to worry about payment. Setup your own payment gateway, and collect payment from your customers ",
+                    "head": "How can i collect money from our customer ? "
+                },
+                {
+                    "desc": "No, your customer will never know about bulkfollows.com. They will place order on your website and your order will automatically place to bulkfollows.com under your user account. ",
+                    "head": "If i connect our child panel with bulkfollows, is there any way customer will find out about bulkfollows?"
+                },
+                {
+                    "desc": "If you want to get all the payment gateway, then you must choose USD for your child panel, if you choose different currency, you will get only 1-3 payment gateway for the currency you will choose. ",
+                    "head": "If i choose different currency for my child panel, which payment gateway i will be able to add on our child panel?"
+                },
+                {
+                    "desc": "Yes, you can create a ticket and send us the username, password. We will create another account for your child panel. Even we can limited the access of the new account ( Such as, new account will not get access of your customer details or payment page or other pages access), you need to request us which access you want to give for new account, is it full access or only orders page/ticket page/payment page, etc. ",
+                    "head": "Is it possible to create another admin account for our child panel?"
+                }
+            ]
+        },
+        "get_support": {
+            "info": "<p>👉 Hey kalinux0, Get 6% Bonus on Deposit 500$ or more with coinbase/Coinpayment ( USDT, USDC, BUSD, BTC, LTC, DOGE, BCH, ETH )</p><p>👉 Hey kalinux0, We changed our Paytm Account, please don't use the old paytm any more, we will not be able to help you if you send money to old paytm.</p>",
+            "tickets": {
+                "new_ticket": {
+                    "header": "New Ticket",
+                    "subject": "Subject",
+                    "order_id": "Order ID: [For multiple orders, please separate them using comma. (example: 10867110,10867210,10867500)]",
+                    "request": "Request",
+                    "reason": "Reason",
+                    "message": "Message (optional)",
+                    "payment": "Payment",
+                    "payment_id": "Payment ID",
+                    "payment_email": "Payment Email",
+                    "payment_amount": "Payment Amount",
+                    "website_url": "Website Url",
+                    "whatsapp": "Whatsapp/Skype/Calling Details",
+                    "monthly": "Monthly sell",
+                    "service_id": "On which service Id do you need discount' [(example 123,453,999,998,1023,564)]",
+                    "bug_website": "Bug In Website",
+                    "bug_service": "Bug In Service",
+                    "add_service": "Add This Service",
+                    "add_feature": "Add This Feature",
+                    "add_method": "Add This Payment Method",
+                    "subjects": [
+                        {
+                            "name": "order",
+                            "head": "Order"
+                        }
+                    ]
+                },
+                "your_ticket": {
+                    "header": "Your Ticket"
+                },
+                "vote": {
+                    "header": "Vote",
+                    "err": "OOPs! You Need Spent Minimum $10 For Vote Cast"
+                },
+                "faq": [
+                    {
+                        "numb": "1",
+                        "head": "How to Create Ticket ?",
+                        "desc": "To Create a Ticket you need to choose a Subject above ( Order/Payment/Child Panel/API/Bug/Request/Point/Other). Then you can write your problem and click Submit button."
+                    },
+                    {
+                        "numb": "2",
+                        "head": "How long to get a reply from support about my complain ?",
+                        "desc": "Usually it will take 10-15 min to get a reply from our support team. But solving your issue can take 5 min to 48 hrs depend on your problem/issues. Please open only 1 ticket for similar type of complain/problem. Dont, open multiple ticket for same or similar type of problem."
+                    },
+                    {
+                        "numb": "3",
+                        "head": "How to get VIP Support?",
+                        "desc": "If you are ELITE | VIP | Master Account Holder, You can VIP support through whatsapp. You can simply Open a ticket and ask our support team to provide you whatsapp Support number."
+                    }
+                ],
+                "btn": "Submit Ticket"
+            }
+        },
+        "dashboard": {
+            "firstname": "Firstname",
+            "lastname": "Lastname",
+            "user_language": "User Language",
+            "my_orders": "My Orders",
+            "spend": "Spend",
+            "id": "Id",
+            "email": "Email",
+            "unread_tickets": "Unread Tickets",
+            "skype_user": "Skype User",
+            "account_benefits": "Account Benefits",
+            "know_more": "Know More About Other Members",
+            "account_points": "Account Points",
+            "user_money": "User Money",
+            "note": "NOTE",
+            "notes": "* = You earn points by ordering. Each 1$ spent by you = 1 point.<br>** = Each 100 points = 1$ up to 2$ depending on your Account status.<br>*** = You cannot redeem less than 500 points.<br>**** = To convert your point into funds, you must open a ticket and choose the subject 'Points' and write down 'Redeem All'.<br>***** = To prevent spam, it will take a minimum of 3 days to convert your points into funds, and up to 7 days!"
+        },
+        "updates": {
+            "search": "Search",
+            "service": "Service",
+            "date": "Date",
+            "update": "Update"
+        },
+        "faq": {
+            "header": "How can we help you?",
+            "describe": "Describe your issue",
+            "questions": [
+                {
+                    "desc": "Partial Status is when we partially refund the remains of an order. Sometimes for some reasons we are unable to deliver a full order, so we refund you the remaining undelivered amount. Example: You bought an order with quantity 10 000 and charges 10$, let's say we delivered 9 000 and the remaining 1 000 we couldn't deliver, then we will 'Partial' the order and refund you the remaining 1 000 (1$ in this example).",
+                    "head": " What is Partial status? "
+                },
+                {
+                    "desc": " Drip Feed is a service that we are offering so you would be able to put the same order multiple times automatically. Example: let's say you want to get 1000 likes on your Instagram Post but you want to get 100 likes each 30 minutes, you will put Link: Your Post Link Quantity: 100 Runs: 10 (as you want to run this order 10 times, if you want to get 2000 likes, you will run it 20 times, etc…) Interval: 30 (because you want to get 100 likes on your post each 30 minutes, if you want each hour, you will put 60 because the time is in minutes) P.S: Never order more quantity than the maximum which is written on the service name (Quantity x Runs), Example if the service's max is 4000, you don’t put Quantity: 500 and Run: 10, because total quantity will be 500x10 = 5000 which is bigger than the service max (4000). Also never put the Interval below the actual start time (some services need 60 minutes to start, don’t put Interval less than the service start time or it will cause a fail in your order).",
+                    "head": "What is Drip Feed? "
+                },
+                {
+                    "desc": " You put the service ID followed by | followed by the link followed by | followed by quantity on each line To get the service ID of a service please check here: https://bulkfollows.com/services Let’s say you want to use the Mass Order to add Instagram Followers to your 3 accounts: abcd, asdf, qwer From the Services List @ https://bulkfollows.com/services, the service ID for this service “Instagram Followers [15K] [REAL] ⚡️💧⭐” is 102 Let’s say you want to add 1000 followers for each account, the output will be like this: ID|Link|Quantity or in this example: 102|abcd|1000 102|asdf|1000 102|qwer|1000",
+                    "head": " How do I use mass order? "
+                },
+                {
+                    "desc": " To get a panel like ours, please check https://goo.gl/kgwJxX to rent a panel, and then you can connect to us via API easily!",
+                    "head": " I want a panel like yours / I want to resell your services how? "
+                },
+                {
+                    "desc": " The cancel or refill button sends a trigger to cancel or refill an order, it doesn't work instantly, it's just a trigger, sometimes it's too late to stop an order, and sometimes an order might not need refill.",
+                    "head": "Cancel button / Refill button is not working for me?"
+                },
+                {
+                    "desc": " We do not offer any discount, the prices that you see are the prices that you get!",
+                    "head": "Can i get a discount?"
+                },
+                {
+                    "desc": " You can use Paypal whenever you want by following the instructions in the Add Funds page (manual use) To have it automatically enabled, you have to have added at least 100$ in your account, and then you can send us a ticket with your username to enable it for you!",
+                    "head": "When can you activate my paypal?"
+                },
+                {
+                    "desc": "Drip Feed doesn't work with neither 'Mass Order' nor API. ",
+                    "head": "Does drip feed work with mass order / or with API?"
+                },
+                {
+                    "desc": "Yes, we do accept PAYTM!",
+                    "head": "Do you accept Paytm? "
+                },
+                {
+                    "desc": "Find the timestamp that is located next to your username above your comment (for example: '3 days ago') and hover over it then right click and 'Copy Link Address'. The link will be something like this: https://www.youtube.com/watch?v=12345&amp;lc=a1b21etc instead of just https://www.youtube.com/watch?v=12345 To be sure that you got the correct link, paste it in your browser's address bar and you will see that the comment is now the first one below the video and it says 'Highlighted comment'.",
+                    "head": " How to get youtube comment link?"
+                },
+                {
+                    "desc": "The one that has 'Monetized' in its service' name.",
+                    "head": " Which youtube view service can be used with monetizable video? "
+                },
+                {
+                    "desc": "Instagram Mention is when you mention someone on Instagram (example @abcde this means you have mentioned abcde under this post and abcde will receive a notification to check the post). Basically the Instagram Mentions [User Followers], you put the link of your post, and the username of the person that you want us to mention HIS FOLLOWERS!",
+                    "head": " What is 'Instagram mentions', how do you use it? "
+                },
+                {
+                    "desc": "Impression means reach (also how many users have seen your post) it is mostly used with brands, they will ask you to show them statistic of the impressions your posts have.",
+                    "head": " What is 'Instagram impressions'?"
+                },
+                {
+                    "desc": "After he goes live, or just 5 second before he goes!",
+                    "head": " The link must be added before the user goes live or after?"
+                },
+                {
+                    "desc": "VIP Support For 30 (60 or 180 Days) We Will Answer Your Tickets Have You On Skype And Have Your Phone Number For 24/7 Hours Priority VIP Support For Any Order Open A Ticket After You Purchase This Service And Send Order ID Quantity Must Be 1000",
+                    "head": " What is VIP service?"
+                },
+                {
+                    "desc": "Instagram Saves is when a user saves a post to his history on Instagram (by pressing the save button near the like button). A lot of saves for a post increase its impression.",
+                    "head": " What is 'Instagram Saves', and what does it do?"
+                }
+            ]
+        },
+        "api": {
+            "note": "👉 Hey kalinux0, To get your API Key you need to visit Account Settings.",
+            "docs": "API Docs",
+            "method": "HTTP Method",
+            "api_url": "API URL",
+            "api_key": "Your API Key",
+            "response": "Response Format",
+            "download": "Download Examples",
+            "services": "Action: Service List",
+            "parameters": "Parameters",
+            "description": "Description",
+            "desrcriptions": {
+                "key": "Your API key",
+                "link": "Link to page",
+                "quantity": "Needed quantity",
+                "runs": "Runs to deliver",
+                "interval": "Interval in minutes",
+                "keywords": "Keywords list separated by \r\n or \n",
+                "hashtag": "Hashtag to scrape usernames from",
+                "answer_number": "Answer number of the poll",
+                "groups": "Groups list separated by \r\n or \n",
+                "min": "Quantity min",
+                "max": "Quantity max",
+                "posts": "Use this parameter if you want to limit the number of new (future) posts that will be parsed and for which orders will be created. If posts parameter is not set, the subscription will be created for an unlimited number of posts.",
+                "old_posts": "Number of existing posts that will be parsed and for which orders will be created, can be used if this option is available for the service.",
+                "delay": "Delay in minutes. Possible values: 0, 5, 10, 15, 30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 360, 420, 480, 540, 600",
+                "expiry": "Expiry date. Format d/m/Y",
+                "service": "Service ID",
+                "orders": "Order IDs (separated by a comma, up to 100 IDs)",
+                "refill": "Refill ID",
+                "refills": "Refill IDs (separated by a comma, up to 100 IDs)"
+            },
+            "example_response": "Example response"
+        },
+        "affiliates": {
+            "note": "🤑 Wanna get money ? Refer Bulkfollows and use our Affiliated system to get payouts! Refer your friends and lets make money! 👍",
+            "referral_links": "Your Referral Links",
+            "referral_link": "Referral link",
+            "comission_rate": "Commission rate",
+            "minimum_payout": "Minimum payout",
+            "affiliate_statistics": " Affiliate Statistics",
+            "visits": "Visits",
+            "registrations": "Registrations",
+            "referrals": "Referrals",
+            "conversion_rate": "Conversion Rate",
+            "total_earnings": "Total Earnings",
+            "available_earnings": "Available Earnings",
+            "boxes": [
+                {
+                    "head": "Affailate Terms and Conditions",
+                    "desc": "<p>As an authorized affiliate (Affiliate) of Digital Web Solutions FZ LLC (Bulkfollows.com), you agree to abide by the terms and conditions contained in this Agreement (Agreement). Please read the entire Agreement carefully before registering and promoting Bulkfollows. com as an Affiliate.</p><p>Your participation in the Program is solely to legally advertise our website to receive a commission on memberships and products purchased by individuals referred to Bulkfollows.com by your own website or personal referrals.</p><p>By signing up for the Bulkfollows.com Affiliate Program (Program), you indicate your acceptance of this Agreement and its terms and conditions.</p>"
+                },
+                {
+                    "head": "Commissions",
+                    "desc": "<p>Commissions will be paid once a month. For an Affiliate to receive a commission, the referred account must remain active for a minimum of 37 days.</p><p>You cannot refer yourself, and you will not receive a commission on your own accounts. There is also a limit of one commission per referral. If someone clicks the link on your site and orders multiple accounts, then you will receive a commission on the first order only.</p><p>Payments will only be sent for transactions that have been successfully completed. Transactions that result in chargebacks or refunds will not be paid out.</p>"
+                },
+                {
+                    "head": "Termination",
+                    "desc": "<ul><li>3a.Inappropriate advertisements (false claims, misleading hyperlinks, etc.).</li><li>3b. Spamming (mass email, mass newsgroup posting, etc.).</li><li>3c. Advertising on sites containing or promoting illegal activities</li><li>3d. Failure to disclose the affiliate relationship for any promotion that qualifies as an endorsement under existing Federal Trade Commission guidelines and regulations, or any applicable state laws.</li><li>3e. Violation of intellectual property rights. Bulkfollows.com reserves the right to require license agreements from those who employ trademarks of Bulkfollows.com in order to protect our intellectual property rights.</li><li>3f. Offering rebates, coupons, or other form of promised kick-backs from your affiliate commission as an incentive. Adding bonuses or bundling other products with Bulkfollows.com, however, is acceptable.</li><li>3g. Self referrals, fraudulent transactions, suspected Affiliate fraud.</li></ul><p>In addition to the foregoing, Bulkfollows.com reserves the right to terminate any Affiliate account at any time, for any violations of this Agreement or no reason.</p>"
+                },
+                {
+                    "head": "Affiliate Links",
+                    "desc": "<p>You may use graphic and text links both on your website and within in your email messages. You may also advertise the Bulkfollows.com site in online and offline classified ads, magazines, and newspapers.</p><p>You may use the graphics and text provided by us, or you may create your own as long as they are deemed appropriate according to the conditions and not in violation as outlined in Condition 3.</p>"
+                },
+                {
+                    "head": "Coupon And Deal Sites",
+                    "desc": "<p>Bulkfollows.com occasionally offers coupon to select affiliates and to our newsletter subscribers. If you’re not pre-approved / assigned a branded coupon, then you’re not allowed to promote the coupon. Below are the terms that apply for any affiliate who is considering the promotion of our products in relation to a deal or coupon:</p><ul><li>5a. Affiliates may not use misleading text on affiliate links, buttons or images to imply that anything besides currently authorized deals to the specific affiliate.</li><li>5b. Affiliates may not bid on Bulkfollows.com Coupons, Bulkfollows.com Discounts or other phrases implying coupons are available.</li><li>5c. Affiliates may not generate pop-ups, pop-unders, iframes, frames, or any other seen or unseen actions that set affiliate cookies unless the user has expressed a clear and explicit interest in activating a specific savings by clicking on a clearly marked link, button or image for that particular coupon or deal. Your link must send the visitor to the merchant site.</li><li>5e. User must be able to see coupon/deal/savings information and details before an affiliate cookie is set (i.e. “click here to see coupons and open a window to merchant site” is NOT allowed).</li><li>5f. Affiliate sites may not have “Click for (or to see) Deal/Coupon” or any variation, when there are no coupons or deals available, and the click opens the merchant site or sets a cookie. Affiliates with such text on the merchant landing page will be removed from the program immediately.</li><ul>"
+                },
+                {
+                    "head": "Pay Per Click (PPC) Policy",
+                    "desc": "<p>PPC bidding is NOT allowed without prior written permission.</p>"
+                },
+                {
+                    "head": "Liability",
+                    "desc": "<p>Bulkfollows.com will not be liable for indirect or accidental damages (loss of revenue, commissions) due to affiliate tracking failures, loss of database files, or any results of intents of harm to the Program and/or to our website(s).</p><p>We do not make any expressed or implied warranties with respect to the Program and/or the memberships or products sold by Bulkfollows.com. We make no claim that the operation of the Program and/or our website(s) will be error-free and we will not be liable for any interruptions or errors.</p>"
+                },
+                {
+                    "head": "Term Of The Agreement",
+                    "desc": "<p>The term of this Agreement begins upon your acceptance in the Program and will end when your Affiliate account is terminated.</p><p>The terms and conditions of this agreement may be modified by us at any time. If any modification to the terms and conditions of this Agreement are unacceptable to you, your only choice is to terminate your Affiliate account. Your continuing participation in the Program will constitute your acceptance of any change.</p>"
+                },
+                {
+                    "head": "Indemnification",
+                    "desc": "<p>Affiliate shall indemnify and hold harmless Bulkfollows.com and its affiliate and subsidiary companies, officers, directors, employees, licensees, successors and assigns, including those licensed or authorized by Bulkfollows.com to transmit and distribute materials, from any and all liabilities, damages, fines, judgments, claims, costs, losses, and expenses (including reasonable legal fees and costs) arising out of or related to any and all claims sustained in connection with this Agreement due to the negligence, misrepresentation, failure to disclose, or intentional misconduct of Affiliate</p>"
+                },
+                {
+                    "head": "Governing Law, Jurisdiction, And Attorney Fees",
+                    "desc": "<p>This Agreement shall be governed by and construed in accordance with the laws of the United Arab Emirates and the State of Ras Al Khaimah. Any dispute arising under or related in any way to this Agreement shall be adjudicated exclusively in the state courts located in Ras Al Khaimah, UAE.</p><p>In the event of litigation to enforce any provision of this Agreement, the prevailing party will be entitled to recover from the other party its costs and fees, including reasonable legal fees.</p>"
+                },
+                {
+                    "head": "Electronic Signatures Effective",
+                    "desc": "<p>The Agreement is an electronic contract that sets out the legally binding terms of your participation in the Bulkfollows.com affiliate program. You indicate your acceptance of this Agreement and all of the terms and conditions contained or referenced in this Agreement by completing the ShareASale and/or Bulkfollows.com application process. This action creates an electronic signature that has the same legal force and effect as a handwritten signature.</p>"
+                }
+            ]
+        },
+        "notifications": {
+            "header": "Service update Notification<br><b>Mail / Popup</b>",
+            "services": [
+                {
+                    "head": "All Services",
+                    "desc": "Email <br> All services update on email",
+                    "detail_head": "Notification",
+                    "detail_desc": "<p>NEVER MISS A PRICE CHANGE!</p><ol><li>Go to the Services page after you login: https://Bulkfollows.com/services</li><li>Search for the services that you want to enable notification for.</li><li>Press the 'Ring' logo to it.</li></ol>"
+                },
+                {
+                    "head": "Popup",
+                    "desc": "You wil get popup notifications",
+                    "detail_head": "Notification",
+                    "detail_desc": "<p>Now everytime the service has an update you will receive a notificationonce you are on Bulkfollows like this:</p>"
+                },
+                {
+                    "head": "Email",
+                    "desc": "You wil get Email notifications",
+                    "detail_head": "Notification",
+                    "detail_desc": "<p>And you will receive an email (to the e-mail that you have used on signup) as well (please check your spam folder if you are not receiving and mark our email (noreply@bulkfolows.com) as no spam.), like this</p>"
+                },
+                {
+                    "head": "Email & Popup",
+                    "desc": "You wil get Both notifications",
+                    "detail_head": "Notification",
+                    "detail_desc": "<p>And you will receive an email (to the e-mail that you have used on signup) as well (please check your spam folder if you are not receiving and mark our email (noreply@bulkfolows.com) as no spam.), like this</p>"
+                }
+            ],
+            "all_services": "All Services",
+            "email": "Email"
+        },
+        "accounts": {
+            "two_factor": {
+                "head": "Two-Factor Authentication",
+                "desc": "Email-based option to add an extra layer of protection to your account. When signing in you’ll need to enter a code that will be sent to your email address.",
+                "btn": "Enable"
+            },
+            "timezone": {
+                "head": "Timezone Settings",
+                "category_header": "Timezone",
+                "btn": "Save"
+            },
+            "api": {
+                "head": "API Key",
+                "note": "If you detect any suspicious behaviour, please generate a new key!",
+                "btn": "Generate New"
+            },
+            "details": {
+                "head": "Account Details",
+                "username": "Username",
+                "email": "Email",
+                "btn": "Change Email",
+                "password": "Current Password",
+                "password_new": "New Password",
+                "password_re": "Repeat New Password",
+                "btn_save": "Save"
+            }
+        }
+    }
+}

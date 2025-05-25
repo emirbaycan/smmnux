@@ -1,0 +1,54 @@
+.dashboard {
+    margin-top: 2rem !important;
+    .box {
+        .header {}
+
+        .iconizeds {
+            display: flex;
+            flex-wrap: wrap;
+
+            .iconized {
+                flex: 0 0 calc(33.33333% - .66666rem);
+                margin-right: 1rem;
+                margin-bottom: 1rem;
+                padding: 1rem;
+                box-sizing: border-box  ;
+
+                .inner {
+                    display: flex;
+
+                    .head {
+                        margin: 0 0 .5rem;
+                    }
+
+                    .desc {
+                        margin: 0;
+                    }
+
+                }
+
+                svg {
+                    margin: auto;
+                    margin-right: 0;
+                    color: var(--primary-color);
+                    width: 2rem;
+                    height: 2rem;
+                }
+            }
+
+            .iconized:nth-child(3n) {
+                margin-right: 0;
+            }
+        }
+
+        .box-header-holder {
+            display: flex;
+            .header {}
+
+            .btn {
+                margin: auto;
+                margin-right: 0;
+            }
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build && vite build --ssr"
+    },
+    "devDependencies": {
+        "@headlessui/react": "^1.4.2",
+        "@inertiajs/react": "^1.0.0",
+        "@types/jquery": "^3.5.29",
+        "@types/node": "^18.13.0",
+        "@types/react": "^18.0.28",
+        "@types/react-dom": "^18.0.10",
+        "@types/react-slick": "^0.23.13",
+        "@vitejs/plugin-react": "^4.2.0",
+        "autoprefixer": "^10.4.12",
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0.0",
+        "postcss": "^8.4.31",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "typescript": "^5.0.2",
+        "vite": "^5.0.0"
+    },
+    "dependencies": {
+        "@fontsource-variable/open-sans": "^5.0.24",
+        "@fontsource/poppins": "^5.0.8",
+        "@fontsource/raleway": "^5.0.16",
+        "@tanstack/react-table": "^8.12.0",
+        "binance": "^2.10.2",
+        "devextreme-react": "^23.2.4",
+        "flowbite": "^2.2.1",
+        "flowbite-react": "^0.7.2",
+        "gray-matter": "^4.0.3",
+        "i18next": "^23.8.2",
+        "jquery": "^3.7.1",
+        "laravel-react-i18n": "^2.0.4",
+        "markdown-to-jsx": "^7.4.1",
+        "prettier": "^3.2.5",
+        "react-i18next": "^14.0.3",
+        "react-icons": "^5.0.1",
+        "react-json-pretty": "^2.2.0",
+        "react-multi-carousel": "^2.8.4",
+        "sass": "^1.70.0",
+        "slick-carousel": "^1.8.1",
+        "swiper": "^11.0.7",
+        "ziggy-js": "^1.8.1"
+    }
+}

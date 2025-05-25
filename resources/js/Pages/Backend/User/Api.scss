@@ -1,0 +1,85 @@
+.api {
+    margin: 2rem auto 0 !important;
+
+    .boxes-col {
+        .box {
+            .text-info {
+                color: var(--primary-color);
+                font-size: 1rem;
+                margin: auto;
+                text-align: center;
+                justify-content: center;
+                align-items: center;
+                display: flex;
+            }
+
+            .header {}
+
+            .content {
+                .border-line {
+                    display: flex;
+                    padding: 1rem;
+
+                    .head {}
+
+                    .desc {
+                        margin-left: auto;
+                    }
+                }
+            }
+
+            table {
+                width: 100%;
+                border-spacing: 0;
+
+                thead {
+                    tr {
+                        th {
+                            background: var(--table-head-dark-color);
+                            color: white;
+                            font-weight: 500;
+                            text-align: left;
+                            padding: .5rem 1rem;
+                        }
+                    }
+                }
+
+                tbody {
+                    tr {
+                        td {
+                            padding: .5rem 1rem;
+                            text-align: left;
+                        }
+                    }
+                }
+            }
+
+            .select-action-table {
+                margin-bottom: 1rem;
+            }
+
+            .action-tables {
+                table {
+                    display: none;
+                }
+
+                table.open {
+                    display: table;
+                }
+
+            }
+
+            .examples {
+                .example-header {
+                    font-size: .9rem;
+                    font-weight: 600;
+                    margin: 1rem 0;
+                }
+
+                .example {}
+
+                .example.show {}
+            }
+        }
+    }
+}

@@ -1,0 +1,104 @@
+.signup {
+    .section{
+        border: solid 1px var(--box-border-color);
+        padding: 2rem;
+        box-sizing: border-box;
+        margin: 2rem auto 3rem;
+        display: flex;
+        flex-direction: column;
+        .header{
+            font-size: 3rem;
+            display: flex;
+            align-items: center;
+            margin: 0;
+            h2{
+                font-size: 2rem;
+                margin: 0;
+                font-weight: 500;
+            }
+            svg{
+                width: 2rem;
+                height: 2rem;
+                margin-right: 1rem;
+            }
+        }
+        .description{
+            font-size: 1rem;
+            font-weight: 300;
+            margin: 1.5rem 0 1rem;
+        }
+        .note{
+            font-size: 1rem;
+            font-weight: 600;
+            margin: 0 0 2rem;
+        }
+        .form{
+            display: flex;
+            flex-direction: column;
+            .holder{
+                display: flex;
+                flex-direction: column;
+                margin-bottom: 1rem;
+                width: 100%;
+                .input-holder{
+                    display: flex;    
+                    width: 100%;
+                    .icon{
+                        border-top-left-radius: .1rem;
+                        border-bottom-left-radius: .1rem;
+                        border: solid 1px var(--box-border-color);
+                        border-right: 0;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        width: 4rem;
+                        height: 3rem;
+                        svg{
+                            color: var(--icon-color);
+                            width: 1rem;
+                            height: 1rem;
+                        }
+                    }
+                    .input{
+                        border: solid 1px var(--box-border-color);
+                        border-top-right-radius: .1rem;
+                        border-bottom-right-radius: .1rem;
+                        width: calc(100% - 4rem);
+                        box-sizing: border-box;
+                        padding: 0 1rem;
+                        box-sizing: border-box;
+                        outline: 0;
+                    }
+                    .input::placeholder{
+                        color:lightgray
+                    }
+                    .input:focus::placeholder{
+                        color: gray;
+                    }                    
+                }
+                .input-err{
+                    color: red;
+                }
+            }
+            .actions{
+                display: flex;
+                align-items: center;
+                margin: 1rem 0 0;
+                .btn{
+                    margin-right: auto;
+                    padding: .5rem 2rem;
+                }
+                span{
+                    margin-left: auto;
+                    font-size: 1rem;
+                    display: block;
+                }
+                a{
+                    margin-left: 1rem;
+                    color: var(--primary-color);
+                    font-size: 1rem;
+                }
+            }
+        }
+    }
+}

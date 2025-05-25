@@ -1,0 +1,158 @@
+:root {
+    --gap: 2rem;
+    --max-width: 1140px;
+
+    --text-color: #6a6a92;
+    --logo-color: #6610f2;
+    --primary-color: #7750f6;
+    --nav-color: #24045A;
+
+    --link-color: #007bff;
+
+    --panel-primary-color: #916DFD;
+    --secondary-color: #202339;
+    --tooltip-color: #223c61;
+    --table-head-color: #f3f5f6;
+    --panel-text-color: #354168;
+
+    --smoke: #eff3f6;
+    --smoke-light: #f9f9fc;
+    --smoke-dark: #f2f2f9;
+
+    --gray: #eff3f5;
+    --dark-gray: #a8abad;
+
+    --light-red:#ee2400;
+
+    --box-border-color: #d5dcec;
+    --table-head-dark-color:#212529;
+
+    --primary-font: 'Raleway', sans-serif;
+    --secondary-font: 'Open Sans Variable', sans-serif;
+}
+
+html {
+    font-size: 14px;
+    font-family: var(--primary-font);
+}
+
+body {
+    margin: 0
+}
+
+ul,
+ol,
+dl {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:-webkit-any-link {
+    text-decoration: none;
+}
+
+
+.dx-state-invisible {
+    display: none;
+}
+
+.dx-popup-content {
+    background: var(--tooltip-color);
+    color: white;
+    border-radius: 0.25rem;
+    padding: 0.25rem .5rem;
+    font-size: .9rem;
+    font-family: var(--secondary-font);
+}
+
+.btn {
+    padding: .5rem .75rem;
+    border: 0;
+    border-radius: .5rem;
+    font-family: var(--primary-font);
+    transition: .2s;
+    cursor: pointer;
+}
+
+.primary-btn {
+    background: var(--primary-color);
+    color: white;
+    box-shadow: 0 0 10px 0 var(--primary-color);
+    font-weight: 600;
+    font-family: var(--primary-font);
+}
+
+.primary-btn:hover {
+    background: transparent;
+    color: var(--primary-color);
+    box-shadow: none
+}
+
+.primary-rev-btn {
+    background: white;
+    color: var(--primary-color);
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.primary-rev-btn:hover {
+    background: var(--primary-color);
+    color: white;
+}
+
+.secondary-btn {
+    background: var(--secondary-color);
+    color: white;
+}
+
+.inline-btn {
+    background: transparent;
+    color: var(--primary-color);
+    padding: .5rem .75rem;
+    border-radius: .5rem;
+    font-weight: 500;
+    font-family: var(--primary-font);
+    cursor: pointer;
+    border: solid 1px var(--primary-color);
+    transition: .2s;
+}
+
+.inline-btn:hover {
+    border-color: white;
+}
+
+.checkbox {
+    display: flex;
+
+    .checkbox-label {
+        display: flex;
+
+        input {
+            margin: auto .5rem;
+        }
+    }
+}
+
+
+.logo {
+    margin-right: 0;
+    padding: 0;
+    font-weight: 700;
+    margin-right: auto;
+
+    .text {
+        font-size: 1.5rem;
+        line-height: 3.5rem;
+        color: var(--logo-color);
+
+    }
+}

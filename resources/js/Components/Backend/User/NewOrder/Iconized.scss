@@ -1,0 +1,23 @@
+.iconized {
+    background: var(--smoke-light);
+    display: flex;
+    .inner {
+        display: flex;
+        flex-direction: column;
+
+        .head,
+        desc {
+            color: var(--text-color);
+            font-size: 1rem;
+        }
+
+        .head {
+            font-weight: 600;
+        }
+
+        svg {
+            background: var(--primary-color);
+            color: white;
+        }
+    }
+}

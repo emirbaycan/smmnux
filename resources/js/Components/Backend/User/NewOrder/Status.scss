@@ -1,0 +1,46 @@
+.status {
+    margin-top: 2rem;
+    .boxes {
+        .box {
+            width: 25%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            .icon {
+                margin-right: 1.5rem;
+                svg {
+                    width: 2rem;
+                    height: 2rem;
+                    color: var(--primary-color);
+                }
+            }
+
+            .content {
+                display: flex;
+                flex-direction: column;
+
+                .head {
+                }
+
+                .cap {
+                    font-weight: 600;
+                    font-size: 1.5rem;
+                    margin: .5rem 0;
+
+                }
+
+                .desc {
+                    line-height: 1.4;
+                }
+                a{
+                    color: var(--link-color);
+                }
+            }
+        }
+
+        .box:not(:last-child) {
+            border-right: 0;
+        }
+    }
+}

@@ -1,0 +1,160 @@
+.navbar {
+    display: flex;
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, .08);
+
+    .navbar-inner {
+        padding: 0 var(--gap);
+        margin: auto;
+        width: 100%;
+        max-width: var(--max-width);
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 1rem;
+
+        .top {
+            display: flex;
+            margin: 1rem 0;
+
+            .inner {
+                display: flex;
+                margin-left: auto;
+                align-items: center;
+                justify-content: center;
+
+                .item {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    margin-left: .75rem;
+                    list-style: none;
+
+                    svg {
+                        background: var(--smoke);
+                        border-radius: 100%;
+                        padding: .25rem;
+                        color: var(--secondary-color);
+                        width: 2rem;
+                        height: 2rem;
+                        box-sizing: border-box;
+                    }
+                }
+
+                .item:hover {
+                    svg {
+                        color: white;
+                        background: var(--primary-color);
+                    }
+                }
+
+                .currency {
+                    display: flex;
+                    background: var(--smoke);
+                    border-radius: 1rem;
+                    margin: 0;
+                    padding: .25rem;
+
+                    svg{
+                        background: transparent !important;
+                        color: var(--secondary-color) !important;
+                    }
+
+                    .dropdown-select {
+                        border: 0;
+                        background: transparent;
+                        padding: 0;
+                        width: auto;
+                        display: flex;
+                        align-items: center;
+             
+                        .dropdown-header {
+                            padding: 0;
+                        }
+                        .dropdown-items{
+                            width: 4rem;
+                            left: 50%;
+                            transform: translateX(-50%);
+                        }
+                    }
+                }
+            }
+
+        }
+    }
+
+    .bottom {
+        display: flex;
+
+        .inner {
+            display: flex;
+
+            .item {
+                display: flex;
+                min-width: calc(var(--max-width) / 7);
+                box-sizing: border-box;
+                color: var(--primary-color);
+
+                a {
+                    display: flex;
+                    padding: 1rem 0;
+                    width: 100%;
+                    text-align: center;
+                    justify-content: center;
+                    align-items: center;
+                    background: var(--smoke-light);
+                    color: var(--tooltip-color);
+                    font-weight: bold;
+                    font-size: .9rem;
+
+                    svg {
+                        margin: auto 0;
+                        margin-right: 0.5rem;
+                        width: 1rem;
+                        height: 1rem;
+                        color: var(--primary-color);
+                        padding-bottom: .2rem;
+                    }
+
+                    span {
+                        line-height: 1;
+                        margin: auto 0;
+                    }
+                }
+
+                a:hover {
+                    background: var(--smoke-dark);
+                }
+
+                a.active {
+                    background: var(--primary-color);
+                    color: white;
+
+                    svg {
+                        color: white
+                    }
+                }
+
+                .dropdown {
+                    .dropdown-item {
+                        a {
+                            padding-right: 1rem;
+                            padding-left: 1rem;
+                            box-sizing: border-box;
+
+                            svg {
+                                color: var(--tooltip-color);
+                                margin-right: 1rem;
+                            }
+                        }
+
+                        a.active {
+                            svg {
+                                color: White
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+    }
+}

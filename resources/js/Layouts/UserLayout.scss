@@ -1,0 +1,61 @@
+html {
+    color: var(--panel-text-color);
+}
+
+.page {
+
+    .page-inner {
+        display: flex;
+        flex-direction: column;
+        max-width: var(--max-width);
+        margin: auto;
+        padding: 0 2rem;
+    }
+}
+
+.badge {
+    border-radius: 0.25rem;
+    font-size: .9rem;
+    font-weight: 400;
+    line-height: 1;
+    padding: 0.2rem 0.3rem;
+    font-weight: 500;
+}
+
+.badge-dark {
+    border: 1px solid #223c61;
+    color: #fff;
+    background-color: #223c61;
+}
+
+table {
+    width: 100%;
+    font-size: 1rem;
+    border-spacing: 0;
+
+    thead {
+        background-color: var(--table-head-color);
+        tr {
+            th {
+                font-size: 1rem;
+                text-align: center;
+                padding: 1rem .5rem;
+            }
+        }
+    }
+
+    tbody {
+        tr {
+            td {
+                text-align: center;
+                padding: 1rem .5rem;
+            }
+            td:nth-child(1){
+                font-weight: 600;
+            }
+        }
+        tr:nth-child(2n-1){
+            background: var(--gray);
+        }
+    }
+}

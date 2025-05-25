@@ -1,0 +1,45 @@
+.boxes {
+    display: flex;
+    margin-top: 2rem;
+}
+
+.boxes-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.box {
+    border: solid 1px var(--box-border-color);
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.header{
+    font-size: 1.25rem;
+}
+
+.text{
+    font-size: .9rem;
+    line-height: 1.4rem;
+}
+
+.header,
+.text {
+    color: var(--text-color);
+}
+
+.boxes-col+.boxes {
+    margin-top: 0;
+    margin-left: 2rem;
+
+    .box {
+        margin-right: 0;
+        width: 100%;
+    }
+}
+
+.boxes{
+    .boxes,
+    .boxes-col{min-width: calc(50% - 2rem)}
+
+}

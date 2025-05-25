@@ -1,0 +1,55 @@
+.tickets {
+    .boxes-col {
+        .box {
+            .navbox {
+                width: 100%;
+                margin: 2rem 0 ;
+                .navs {
+                    .nav {}
+                }
+
+                .contents {
+                    .content {
+                        .navbox {
+                            .navs {
+                                display: flex;
+                                flex-wrap: wrap;
+                                .nav {
+                                    flex: 0 0 calc(100%/6 - 2.5rem);
+                                    display: flex;
+                                    background: var(--gray);
+                                    margin: .25rem;
+
+                                    .nav-header{
+                                        color: var(--primary-color);
+                                    }
+                                    svg{
+                                        margin-right: .5rem;
+                                        color: var(--primary-color);
+                                    }
+                                }
+                                .nav.open{
+                                    border: 0;
+                                    background: var(--primary-color);
+                                    .nav-header{
+                                        font-weight: 500;
+                                        color: white;
+                                    }
+                                    svg{
+                                        color: white;
+                                    }
+                                }
+                            }
+
+                            .contents {
+                                .content {
+                                    
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,186 @@
+.neworder {
+    .info {
+        margin: 2rem auto;
+        color: var(--primary-color);
+        font-weight: 600;
+    }
+
+    .boxes {
+        margin: auto 0;
+
+        .box {
+            width: 50%;
+        }
+
+        .box:first-child {
+            margin-right: 1rem;
+        }
+
+        .navbox {
+            .navs {
+                .nav {
+                    svg {}
+
+                    .nav-text {}
+                }
+            }
+
+            .contents {
+                .content {
+                    padding: 1.5rem 0 0;
+
+                    .input-holder {
+                        display: flex;
+                        position: relative;
+                        margin-bottom: 1rem;
+
+                        .icon {
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+
+                            svg {
+                                width: 1.25rem;
+                                height: 1.25rem;
+                                color: var(--primary-color);
+                                position: absolute;
+                                top: 50%;
+                                left: .5rem;
+                                transform: translateY(-50%);
+                            }
+
+                        }
+
+                        .input {
+                            width: 100%;
+                            border: solid 1px var(--box-border-color);
+                            padding: .5rem 2rem;
+                        }
+                    }
+
+                    .dropdown-title {
+                        margin-bottom: .5rem;
+                        margin-left: 1rem;
+                        display: block;
+                    }
+
+                    .dropdown-select {
+                        margin-bottom: 1rem;
+                    }
+
+                    .input-box {
+                        display: flex;
+                        flex-direction: column;
+
+                        .label {
+                            margin-top: .5rem;
+                            margin-bottom: .25rem;
+                            font-size: 1rem;
+                        }
+
+                        .input {
+                            padding: .5rem 1rem;
+                            border: solid 1px var(--box-border-color);
+                        }
+                    }
+
+                    .btn {
+                        display: flex;
+                        align-items: center;
+                        margin-top: 1rem;
+
+                        svg {
+                            margin-right: .5rem;
+                        }
+                    }
+
+                    .details {
+                        .iconized {
+                            padding: 1rem;
+                            margin-bottom: 1rem;
+
+                            svg {
+                                background: var(--primary-color);
+                                color: white;
+                                padding: .5rem;
+                                width: 1rem;
+                                height: 1rem;
+                                border-radius: .25rem;
+                                margin-left: auto;
+                            }
+
+                            .inner {
+                                display: flex;
+                                flex-direction: column;
+
+                                .head {
+                                    margin-bottom: 1rem;
+                                    color: var(--dark-head-color);
+                                }
+
+                                .desc {}
+                            }
+                        }
+
+                        .iconized-box {
+                            display: flex;
+
+                            .iconized {
+                                width: 50%;
+                            }
+
+                            .iconized:first-child {
+                                margin-right: 1rem;
+                            }
+                        }
+                    }
+
+                    .contact-us {
+                        .info-box {
+                            background: var(--primary-color);
+                            color: white;
+                            padding: 1rem;
+                            line-height: 1.4;
+                            border-radius: .5rem;
+                            margin-bottom: 1rem;
+                        }
+
+                        .icon-head {
+                            display: flex;
+                            align-items: center;
+                            margin: 1rem 0;
+
+                            svg {
+                                width: 1.5rem;
+                                height: 1.5rem;
+                                margin-right: .5rem;
+                            }
+
+                            .head {
+                                font-weight: 600;
+                                font-size: 1.1rem;
+                                margin: 0;
+                            }
+                        }
+
+                        .desc {
+                            margin-bottom: 1rem;
+                        }
+
+                        .border-box {
+                            border-top: solid 1px var(--box-border-color);
+                            border-bottom: solid 1px var(--box-border-color);
+                            margin: 1rem 0;
+                        }
+                    }
+                }
+
+                .content.show {
+
+                    display: flex;
+                    flex-direction: column;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+.dropdown {
+    width: 100%;
+    position: relative;
+
+    .dropdown-items {
+        display: flex;
+        flex-direction: column;
+        position: absolute;        
+        transition: .2s;
+        min-width: 100%;
+        z-index: 999;
+
+        .dropdown-item{
+            *{
+                text-align: left !important;
+                justify-content: left !important;
+            }
+        }
+    }
+
+    .dropdown-items.show {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .dropdown-items.hidden {
+        opacity: 0;
+        visibility: hidden;
+    }
+
+}
+
+.dropdown:hover{
+    .dropdown-items{
+        opacity: 1;
+        visibility: visible;
+    }
+}

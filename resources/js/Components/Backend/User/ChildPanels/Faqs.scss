@@ -1,0 +1,49 @@
+.faqs {
+    display: flex;
+    flex-direction: column;
+
+    .item {
+        display: flex;
+        flex-direction: column;
+
+        .head-holder {
+            display: flex;
+            border-bottom: solid 1px var(--box-border-color);
+            padding: .5rem 0;
+            cursor: pointer;
+
+            svg {
+                margin-right: 1rem;
+                width: 1.25rem;
+                height: 1.25rem;
+                padding: .5rem;
+                background: var(--primary-color);
+                color: white;
+                border-radius: 100%;
+            }
+
+            .head {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+        }
+
+        .desc {
+            max-height: 0;
+            overflow: hidden;
+            transition: .3s;
+            box-sizing: border-box;
+
+            .desc-inner {
+                padding: 1rem 3rem;
+            }
+        }
+    }
+
+    .item.show {
+        .desc {
+            max-height: 999px;
+        }
+    }
+}
